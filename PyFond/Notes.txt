@@ -1,0 +1,40 @@
+##Gjenstår:
+##-søke opp månedsrapport istedetfor direkte link
+##-variabel månedsnavn
+##-bestemme lagringsplass
+##-automatisere til den første hver måned.
+    Må gjøres med Cronjob?
+
+
+Hosting:
+Heliohost Vlexofree
+http://www.instructables.com/id/Python-Web-Server-for-your-Raspberry-Pi/
+70 usd for starter kit RBP fra amazon
+
+Beskrivelse: 	Kristoffer
+Brukernavn: 	olavz5
+Passord: 	8,MJv2Dq 
+Epost: 	kristoffer@olavz.com
+POP3 server: 	pop.domeneshop.no
+IMAP server: 	imap.domeneshop.no
+SMTP server: 	smtp.domeneshop.no (se forklaring)
+Webmail server: 	webmail.domeneshop.no
+
+ssh til:
+bjergli.com
+port: 22
+user: semelenge
+passw: kristoffer
+
+
+logging:
+https://docs.python.org/2/howto/logging.html
+
+----------
+/html/body/div[2]/div[2]/form/div[3]/div[1]/div/table/tbody/tr/td/span = "storebrand global multifaktor"
+/html/body/div[2]/div[2]/form/div[3]/div[1]/div/div/table/tbody/tr[1]/td[3]/table/tbody/tr[5]/td/span/table/tbody/tr[1]/td/span/a
+
+Aktuelle side:
+http://code.runnable.com/
+https://automatetheboringstuff.com/
+http://interactivepython.org/courselib/static/thinkcspy/toc.html#t-o-c

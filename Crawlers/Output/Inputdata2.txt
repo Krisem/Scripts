@@ -1,0 +1,2540 @@
+﻿﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" lang="da">
+<head><meta name="google" content="notranslate" />
+        <meta property="og:site_name" content="Norwegian" />
+<meta property="og:title" content="Billige flybilletter, hotel og billeje - Norwegian" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://www.norwegian.com/clientresources/images/cms/facebook-share-image-en-EN.jpg" />
+<meta property="og:url" content="https://www.norwegian.com/dk/" />
+<meta property="og:description" content="Norwegian har billige flybilletter, hoteller og udlejningsbiler. Flyv billigt nu. Find flyrejser til og fra Danmark med LAVPRISKALENDEREN® - altid lave priser!" />
+<meta property="fb:app_id" content="261473590595334" />
+
+    
+    
+<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico" />
+<meta name="description" content="Norwegian har billige flybilletter, hoteller og udlejningsbiler. Flyv billigt nu. Find flyrejser til og fra Danmark med LAVPRISKALENDEREN® - altid lave priser!" /><meta name="rating" content="General" /><meta name="revisit-after" content="4 weeks" /><meta name="generator" content="EPiServer" /><meta name="robots" content="all" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="creation_date" content="Tue, 28 Apr 2009 14:02:00 GMT" /><meta name="last-modified" content="Tue, 28 Apr 2009 14:02:30 GMT" /><meta name="revised" content="Tue, 28 Apr 2009 14:02:30 GMT" /><meta http-equiv="Content-Language" content="da" />
+<meta data-server="NAS-PORTALB02" data-language-branch="da" data-host="www.norwegian.com" data-path="/dk/" data-time="15:21:13.151" data-current-ui-culture="da-DK" data-current-culture="da-DK" data-build-number="34.3.0.679" data-created-at="16-11-2015 12:42:09" data-cache-version="54374" /> 
+
+
+<link rel="apple-touch-icon" href="/Images/NasLogo.png" />
+<link href="/Styles/NasCommon.css?v=34.3.0.679" media="all" rel="stylesheet" type="text/css" />
+<link href="/Styles/NasControls.css?v=34.3.0.679" media="all" rel="stylesheet" type="text/css" />
+<script src="/Scripts/NasCommon.js?v=34.3.0.679" language="javascript" type="text/javascript"></script><script src="/Scripts/Tracking/tealeaf.js" language="javascript" type="text/javascript"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-9004708-1']);
+//]]>
+</script>
+<script type="text/javascript" src="/Scripts/Tracking/ga-se-async.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+_gaq.push(['_setDomainName', '.norwegian.com']);
+_gaq.push(['_setAllowAnchor', true]);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageLoadTime']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+//]]>
+</script>
+<link href="/Styles/jquery-ui-1.7.2.custom.css" type="text/css" rel="stylesheet" /><title>
+	Billige flybilletter, hotel og billeje - Norwegian
+</title></head>
+<body>
+    <form method="post" action="/dk/" id="aspnetForm" class="startpage">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="q/e4UHD3Vq/DCEIXHErGZJwnS7T4K7c03sjBBR0wfPebNMkCKYdLYcHa70CAFTAE7TBKcuXTfMFrN8YVCewWW36Wac46j4rkfcayReq9MMKc0+2+BXDhxAlSEeqQQrn8k0yk0Y2NaI4Sec6pKCR/msua7Ko2SX47/o2vC8XmoRCfRzvVXHbfJi8OzmcAC4Ax1drfBw==" />
+
+
+<script src="/Scripts/jquery-1.11.2.min.js" type="text/javascript"></script>
+<script src="/Scripts/jquery-migrate-1.2.1.js" type="text/javascript"></script>
+<script src="/Scripts/jquery.ui/jquery-ui-1.7.2.custom.min.js" type="text/javascript"></script>
+<script src="/scripts/i18n/ui.datepicker-da.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+ $(document).ready(
+	                                                        function()
+	                                                            { $('#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_hiddenDepartureDate').datepicker({firstDay: 1, 
+                                                                        minDate: new Date(2015, 11 - 1, 16), 
+                                                                        showOn: 'button', 
+                                                                        buttonImage: '/images/calendar/cal.gif', 
+                                                                        buttonImageOnly: true, 
+                                                                        showMonthAfterYear: false,
+                                                                        dateFormat: 'yymmdd', 
+                                                                        onSelect: function(dateText, inst) { updateSelectDates(dateText, inst, 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureDay', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureMonth'); },                                                                         
+                                                                    }, $.datepicker.regional['da']);
+                                                                    
+                                                                }
+                                                            );
+
+                     $(document).ready(
+	                                                        function()
+	                                                            { $('#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_hiddenReturnDate').datepicker({firstDay: 1, 
+                                                                        minDate: new Date(2015, 11 - 1, 16), 
+                                                                        showOn: 'button', 
+                                                                        buttonImage: '/images/calendar/cal.gif', 
+                                                                        buttonImageOnly: true, 
+                                                                        showMonthAfterYear: false,
+                                                                        dateFormat: 'yymmdd', 
+                                                                        onSelect: function(dateText, inst) { updateSelectDates(dateText, inst, 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnReturnDay', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnReturnMonth'); },                                                                         
+                                                                    }, $.datepicker.regional['da']);
+                                                                    
+                                                                }
+                                                            );
+
+                    //]]>
+</script>
+
+<script src="/Scripts/CommonSearchBoxJQuery.js?v=34.3.0.679" type="text/javascript"></script>
+<script src="/Scripts/selectBoxes/jquery.selectboxes.min.js" type="text/javascript"></script>
+<script src="/Scripts/select2.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+		
+
+        function cityIsSelected(selectElement)
+        {
+            var cityAttr = $(selectElement.options[selectElement.selectedIndex]).attr('data-city');
+            if (typeof cityAttr === 'undefined' || cityAttr === false)
+            {
+                return false;
+            }
+            return true;
+        }
+
+
+       function validateAvaSearch(selectDepartureDayId, selectDepartureMonthId, selectReturnDayId, selectReturnMonthId, selectDepartureCityId, selectArrivalCityId, tripTypeName)
+        {
+            var objSelectDepartureCity = document.getElementById(selectDepartureCityId);
+            var objSelectArrivalCity = document.getElementById(selectArrivalCityId);
+            
+            if (objSelectDepartureCity.options[objSelectDepartureCity.selectedIndex].value == "" || objSelectDepartureCity.options[objSelectDepartureCity.selectedIndex].value == " ")
+	        {
+		        alert('Vælg afrejsepunkt');
+		        return false;
+	        }
+            else if (!cityIsSelected(objSelectArrivalCity) || objSelectArrivalCity.options[objSelectArrivalCity.selectedIndex].value == "selectDestination" || objSelectArrivalCity.options[objSelectArrivalCity.selectedIndex].value == "" || objSelectArrivalCity.options[objSelectArrivalCity.selectedIndex].value == " ")
+	        {
+		        alert('Vælg destination');
+		        return false;
+	        }
+	        else
+	        {
+		        return validateDates(selectDepartureDayId, selectDepartureMonthId, selectReturnDayId, selectReturnMonthId, tripTypeName, false);
+	        }
+        }
+
+        function validateDates(selectDepartureDayId, selectDepartureMonthId, selectReturnDayId, selectReturnMonthId, tripTypeName, hideWarning)
+        {
+            var objSelectDepartureDay = document.getElementById(selectDepartureDayId);
+            var objSelectDepartureMonth = document.getElementById(selectDepartureMonthId);
+            var objSelectReturnDay = document.getElementById(selectReturnDayId);
+            var objSelectReturnMonth = document.getElementById(selectReturnMonthId);
+	        var errMesg = "";
+            
+            var departureDate = extractDate(objSelectDepartureDay, objSelectDepartureMonth);
+            if (!isValidDate(departureDate))
+                errMesg = errMesg + 'Afgangsdatoen er ikke gyldig\n';
+            
+	        if ($('input:radio[name=' + tripTypeName + ']:checked').val() == '2') {
+                var returnDate = extractDate(objSelectReturnDay, objSelectReturnMonth);
+                if (!isValidDate(returnDate))
+                    errMesg = errMesg + 'Returdatoen er ikke gyldig\n';
+                
+		        if(returnDate < departureDate)
+			        errMesg = errMesg + 'Udgående flyvning kan ikke ligge senere end returflyvning!\n';
+	        }
+
+	        var today = new Date();
+	        if (new Date(departureDate.getFullYear(), departureDate.getMonth(), departureDate.getDate(), 23, 59, 59, 999) < today)
+		        errMesg = errMesg + 'Afgangsdatoen er ikke gyldig\n';
+
+	        if (errMesg.length > 0) {
+		        if (!hideWarning)
+			        alert(errMesg);
+		        return false;
+	        }
+	        else 
+		        return true;
+        }
+
+        function getAvaSearch   (selectDepartureDayId, selectDepartureMonthId, selectReturnDayId, selectReturnMonthId, selectDepartureCityId, selectArrivalCityId, tripTypeName, selectAdultsId, selectChildrenId, selectInfantsId)
+        {
+
+	        if (validateAvaSearch(selectDepartureDayId, selectDepartureMonthId, selectReturnDayId, selectReturnMonthId, selectDepartureCityId, selectArrivalCityId, tripTypeName))
+	        {
+                var objSelectDepartureCity = document.getElementById(selectDepartureCityId);
+                var objSelectArrivalCity = document.getElementById(selectArrivalCityId);
+                var objSelectDepartureDay = document.getElementById(selectDepartureDayId);
+                var objSelectDepartureMonth = document.getElementById(selectDepartureMonthId);
+                var objSelectReturnDay = document.getElementById(selectReturnDayId);
+                var objSelectReturnMonth = document.getElementById(selectReturnMonthId);
+                var objSelectAdults = document.getElementById(selectAdultsId);
+                var objSelectChildren = document.getElementById(selectChildrenId);
+                var objSelectInfants = document.getElementById(selectInfantsId);                
+                var valTripType = $('input:radio[name=' + tripTypeName + ']:checked').val();
+                var objSelectProcessMode = '';
+                
+                var query = '?D_City=' + objSelectDepartureCity.value + 
+                            '&A_City=' + objSelectArrivalCity.value + 
+                            '&TripType=' + valTripType + 
+                            '&D_Day=' + objSelectDepartureDay.value + 
+                            '&D_Month=' + objSelectDepartureMonth.value + 
+                            '&R_Day=' + objSelectReturnDay.value + 
+                            '&R_Month=' + objSelectReturnMonth.value + 
+                            '&AdultCount=' + objSelectAdults.value + 
+                            '&ChildCount=' + objSelectChildren.value + 
+                            '&InfantCount='+ objSelectInfants.value;
+
+                if(objSelectAdults.value == 'x')
+                {
+                    window.location.href = '/ssl/dk/processpages/grouptravel/grouptravelavaday/' + query;
+                }
+                else{
+                    window.location.href = '/dk/fly/valg-flyvning/' + query;
+                }
+	        }
+        }
+		
+		
+
+        function cityIsSelected(selectElement)
+        {
+            var cityAttr = $(selectElement.options[selectElement.selectedIndex]).attr('data-city');
+            if (typeof cityAttr === 'undefined' || cityAttr === false)
+            {
+                return false;
+            }
+            return true;
+        }
+
+        function farecalValidateDate(selectDepartureMonthId, selectReturnMonthId, hideWarning)
+		{
+            var objSelectDepartureMonth = document.getElementById(selectDepartureMonthId);
+            var objSelectReturnMonth = document.getElementById(selectReturnMonthId);
+			var errMesg = "";
+                
+            var returnMonth = objSelectReturnMonth.options[objSelectReturnMonth.selectedIndex].value;
+            var departureMonth = objSelectDepartureMonth.options[objSelectDepartureMonth.selectedIndex].value;
+            if (returnMonth != '' && (parseInt(returnMonth, 10) < parseInt(departureMonth,10))) {
+                errMesg = errMesg + 'Udgående flyvning kan ikke ligge senere end returflyvning!\n';
+			}
+			if (errMesg.length > 0) {
+				if (!hideWarning)
+					alert(errMesg);
+				return false;
+			}
+			else 
+				return true;
+		}
+        
+        function farecalValidate(selectDepartureMonthId, selectReturnMonthId, selectDepartureCityId, selectArrivalCityId)
+		{
+            var objSelectDepartureCity = document.getElementById(selectDepartureCityId);
+            var objSelectArrivalCity = document.getElementById(selectArrivalCityId);
+            var objSelectDepartureMonth = document.getElementById(selectDepartureMonthId);
+            var objSelectReturnMonth = document.getElementById(selectReturnMonthId);  
+            if (objSelectDepartureCity.options[objSelectDepartureCity.selectedIndex].value == "" || objSelectDepartureCity.options[objSelectDepartureCity.selectedIndex].value == " ")
+			{
+				alert('Vælg afrejsepunkt');
+				return false;
+			}
+            else if (!cityIsSelected(objSelectArrivalCity) || objSelectArrivalCity.options[objSelectArrivalCity.selectedIndex].value == "" || objSelectArrivalCity.options[objSelectArrivalCity.selectedIndex].value == " ")
+			{
+				alert('Vælg destination');
+				return false;
+			}
+			else
+			{
+				return farecalValidateDate(selectDepartureMonthId, selectReturnMonthId, false);
+			}
+		}
+
+        function getFareCalendar(selectDepartureMonthId, selectReturnMonthId, selectDepartureCityId, selectArrivalCityId, selectAdultsId, selectChildrenId, selectInfantsId, tripType, selectedDepartureDay, selectedReturnDay)
+		{
+            var objSelectDepartureCity = document.getElementById(selectDepartureCityId);
+            var objSelectArrivalCity = document.getElementById(selectArrivalCityId);
+            var objSelectDepartureMonth = document.getElementById(selectDepartureMonthId);
+            var objSelectReturnMonth = document.getElementById(selectReturnMonthId);                
+            var objSelectAdults = document.getElementById(selectAdultsId);
+            var objSelectChildren = document.getElementById(selectChildrenId);
+            var objSelectInfants = document.getElementById(selectInfantsId); 
+            var numAdults = 1;
+            var numChildren = 0;
+            var numInfants = 0;            
+
+			if (farecalValidate(selectDepartureMonthId, selectReturnMonthId, selectDepartureCityId, selectArrivalCityId))
+            {
+                var valDCity = objSelectDepartureCity.value;
+                var valACity = objSelectArrivalCity.value;
+                var valDMonth = objSelectDepartureMonth.value;
+                var valRMonth = objSelectReturnMonth.value;
+
+                var valTripType;
+                if(typeof(tripType)=='undefined' || tripType == null)
+                {
+			        if (objSelectReturnMonth.selectedIndex != 0) {
+                       valTripType = 2; 
+                    }
+                    else {
+                        valTripType = 1;
+                    }
+                }
+                else
+                {
+                    valTripType = tripType;
+                }
+
+                if (objSelectAdults != null && '' + objSelectAdults != 'undefined'){
+                    numAdults = objSelectAdults.value;
+                    numChildren = objSelectChildren.value;
+                    numInfants = objSelectInfants.value;
+                }
+                
+                var query = '?D_City=' + valDCity+ '&A_City=' + valACity + '&TripType=' + valTripType + '&D_Month=' + valDMonth + '&R_Month=' + valRMonth + '&AdultCount=' + numAdults + '&ChildCount=' + numChildren + '&InfantCount=' + numInfants;
+                if(objSelectAdults != null && '' + objSelectAdults != 'undefined' && objSelectAdults.value == 'x')
+                {
+                    if(typeof(selectedDepartureDay)!='undefined' && selectedDepartureDay != null)
+                    {
+                        query += '&D_Day=' + selectedDepartureDay.value;
+                    }
+                    if(typeof(selectedReturnDay)!='undefined' && selectedReturnDay != null)
+                    {
+                        query += '&R_Day=' + selectedReturnDay.value;
+                    }
+                    window.location.href = '/ssl/dk/processpages/grouptravel/grouptravelavaday/' + query;
+                }
+                else{
+                    if(typeof(selectedDepartureDay)!='undefined' && selectedDepartureDay != null)
+                    {
+                        query += '&D_Day=1&D_SelectedDay=' + selectedDepartureDay.value;
+                    }
+                    if(typeof(selectedReturnDay)!='undefined' && selectedReturnDay != null)
+                    {
+                        query += '&R_Day=1&R_SelectedDay=' + selectedReturnDay.value;
+                    }
+                    window.location.href = '/dk/fly/lavpris/' + query;
+                }        
+            }
+		}
+
+        //]]>
+</script>
+
+<script src="/IpPages/External/DepartureListOptions.ashx?lang=da-DK&amp;minify=true&amp;version=1" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+    
+    
+    
+    
+    <div class="pagecontentcontainer">
+        <table class="pagelayouttable" cellspacing="0" cellpadding="0">
+            <tr>
+                <td class="pagelayoutcell">
+                    <div class="pageheaderbox">
+                        
+                        <div id="ctl00_divPageHeader" class="pageheader">
+                            <div class="pageheadertopbox">
+                                <table class="pageheaderlayouttable" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                        <td class="pagelogocell" rowspan="2">
+                                            <a href="/dk/" id="ctl00_lnkMasterLogo">
+                                                <img src="/globalassets/global/english/logos/logo_com.png" id="ctl00_imgSiteLogo" alt=" " />
+                                            </a>
+                                        </td>
+                                        <td class="pagetopmenucell">
+                                            <div class="pagegloballinksbox">
+                                                
+                                                    
+            <ul>
+    
+        <li>
+            <a id="ctl00_HeaderTopContent_TopLinks1_rptTopLinks_ctl01_hplMainLink" href="https://corporate.norwegian.no/dk/">Erhverv</a>
+        </li>
+    
+        <li>
+            <a id="ctl00_HeaderTopContent_TopLinks1_rptTopLinks_ctl02_hplMainLink" href="http://agent.norwegian.com/">Rejsebureau</a>
+        </li>
+    
+        <li>
+            <a id="ctl00_HeaderTopContent_TopLinks1_rptTopLinks_ctl03_hplMainLink" href="/dk/Nyttig-pa-reisen/reward/">Bonusprogram</a>
+        </li>
+    
+        <li>
+            <a id="ctl00_HeaderTopContent_TopLinks1_rptTopLinks_ctl04_hplMainLink" href="/dk/charter/velkommen-til-norwegian-charter/">Charter</a>
+        </li>
+    
+        <li>
+            <a id="ctl00_HeaderTopContent_TopLinks1_rptTopLinks_ctl05_hplMainLink" href="/ssl/dk/kundeservice/min-norwegian/reslookup/">Mine reservationer</a>
+        </li>
+    
+        <li>
+            
+        <a href="/ssl/dk/kundeservice/min-norwegian/login/">Log på</a>
+    
+        </li>
+        </ul> 
+    
+
+                                                
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="pagelangcell">
+                                            <select name="ctl00$cmsLangSelector$ddlLangugeSelector" id="ctl00_cmsLangSelector_ddlLangugeSelector" class="languagemenu">
+	<option value="no;True">Norge (Norsk)</option>
+	<option value="sv;True">Sverige (Svenska)</option>
+	<option selected="selected" value="da;True">Danmark (Dansk)</option>
+	<option value="fi;True">Suomi (Suomeksi)</option>
+	<option value="en-GB;True">UK (English)</option>
+	<option value="en-US;True">USA (English)</option>
+	<option value="en-IE;True">Other countries (English)</option>
+	<option value="de;True">Deutschland (Deutsch)</option>
+	<option value="fr;True">France (Fran&#231;ais)</option>
+	<option value="es;True">Espa&#241;a (Castellano)</option>
+	<option value="pl;True">Polska (Polski)</option>
+	<option value="nl-NL;True">Nederland (English)</option>
+
+</select>
+
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div class="pagemenubox">
+                                
+                                    
+            <ul>
+    
+        <li class="">
+            <a href="/dk/fly/tips/">Fly</a>
+        </li>
+    
+        <li class="">
+            <a href="/dk/hotel/">Hotel</a>
+        </li>
+    
+        <li class="">
+            <a href="/dk/billeje/">Billeje</a>
+        </li>
+    
+        <li class="">
+            <a href="/dk/flyhotel/">Fly+hotel</a>
+        </li>
+    
+        <li class="">
+            <a href="/dk/sommerhuse/">Huse & lejligheder</a>
+        </li>
+    
+        <li class="">
+            <a href="/dk/destinationer/sneogski/">Destinationer</a>
+        </li>
+    
+        <li class="">
+            <a href="/dk/nmagazine/">nMagazine</a>
+        </li>
+    
+        <li class="">
+            <a href="/dk/Nyttig-pa-reisen/rejseservice/">Nyttigt på rejsen</a>
+        </li>
+    
+        <li class="lastitem">
+            <a href="/dk/kundeservice/er-flyet-i-rute/">Er flyet i rute </a>
+        </li>
+    
+        <li class="floatright lastitem">
+            <a href="/dk/om-norwegian/fakta/">Om Norwegian</a>
+        </li>
+    
+        <li class="floatright">
+            <a href="/dk/kundeservice/rejseinformation/">Kundeservice</a>
+        </li>
+    
+        </ul>
+    
+
+                                
+                            </div>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="pagelayoutcell">
+                    <div class="pagecontentbox">
+                        <div class="pagecontent">
+                            
+                                
+                            
+                            <div class="pagebodybox">
+                                
+    <div class="widecontent">
+        
+        
+    </div>
+
+                                
+                                    <table class="pagelayouttable" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                            <td class="layoutcellleft" width="220">
+                                                
+                                                
+                                                
+    <div>
+        <div class="webpart first vertical">
+	
+<div class="searchboxcontainer">
+    <div id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_pnlType" class="daysearchbox searchboxvertical">
+		
+        <div id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_pnlLayout" class="vertical fixedheight">
+			
+            <div id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_PanelTitleHeader" class="headerbox">
+				
+                <h1>Søg billige flybilletter</h1>
+                
+            
+			</div>
+            <div class="leftcolumn">
+                <div class="destinations">
+                    <div class="row">
+                        <div class="label">
+                            Fly fra
+                        </div>
+                        <div>
+                            <!--googleoff: index-->
+                            <select name="ctl00$MainContentRegion$LeftColumnRegion$ctl00$ctl00$ctl01$ctl00$ipcAvaSearchBox$ddnDepartureCity" id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureCity" class="selectdestination" style="width:200px;">
+				<option value="">- V&#230;lg afgang -</option>
+				<option value="CPH">K&#248;benhavn (CPH)</option>
+				<option value="AAL">Aalborg (AAL)</option>
+				<option value="BLL">Billund (BLL)</option>
+				<option value="ARN">Stockholm-Arlanda (ARN)</option>
+				<option value="OSL">Oslo-Gardermoen (OSL)</option>
+				<option value="">------------------------------</option>
+				<option value="">--- Bosnien-Herzegovina ---</option>
+				<option value="SJJ">Sarajevo (SJJ)</option>
+				<option value="">--- Bulgarien ---</option>
+				<option value="BOJ">Burgas (BOJ)</option>
+				<option value="VAR">Varna (VAR)</option>
+				<option value="">--- Cypern ---</option>
+				<option value="LCA">Cypern-Larnaca (LCA)</option>
+				<option value="">--- Danmark ---</option>
+				<option value="BLL">Billund (BLL)</option>
+				<option value="CPH">K&#248;benhavn (CPH)</option>
+				<option value="AAL">Aalborg (AAL)</option>
+				<option value="">--- Estland ---</option>
+				<option value="TLL">Tallinn (TLL)</option>
+				<option value="">--- Finland ---</option>
+				<option value="HEL">Helsinki (HEL)</option>
+				<option value="IVL">Ivalo (IVL)</option>
+				<option value="KTT">Kittila (KTT)</option>
+				<option value="OUL">Oulu (OUL)</option>
+				<option value="RVN">Rovaniemi (RVN)</option>
+				<option value="VAA">Vaasa (VAA)</option>
+				<option value="">--- Forenede Arabiske Emirater ---</option>
+				<option value="DXB">Dubai (DXB)</option>
+				<option value="">--- Frankrig ---</option>
+				<option value="BOD">Bordeaux (BOD)</option>
+				<option value="GNB">Grenoble (GNB)</option>
+				<option value="AJA">Korsika-Ajaccio (AJA)</option>
+				<option value="BIA">Korsika-Bastia (BIA)</option>
+				<option value="MRS">Marseille-Provence (MRS)</option>
+				<option value="MPL">Montpellier (MPL)</option>
+				<option value="NCE">Nice (NCE)</option>
+				<option value="ORY">Paris-Orly (ORY)</option>
+				<option value="">--- Gr&#230;kenland ---</option>
+				<option value="ATH">Athen (ATH)</option>
+				<option value="EFL">Kefalonia (EFL)</option>
+				<option value="CFU">Korfu (CFU)</option>
+				<option value="KGS">Kos (KGS)</option>
+				<option value="CHQ">Kreta-Chania (CHQ)</option>
+				<option value="HER">Kreta-Heraklion (HER)</option>
+				<option value="PVK">Lefkas Preveza (PVK)</option>
+				<option value="RHO">Rhodos (RHO)</option>
+				<option value="JTR">Santorini (JTR)</option>
+				<option value="">--- Guadeloupe ---</option>
+				<option value="PTP">Guadeloupe - Pointe-&#224;-Pitre (PTP)</option>
+				<option value="">--- Holland ---</option>
+				<option value="AMS">Amsterdam (AMS)</option>
+				<option value="">--- Irland ---</option>
+				<option value="DUB">Dublin (DUB)</option>
+				<option value="">--- Island ---</option>
+				<option value="KEF">Reykjavik (KEF)</option>
+				<option value="">--- Israel ---</option>
+				<option value="TLV">Tel Aviv (TLV)</option>
+				<option value="">--- Italien ---</option>
+				<option value="MXP">Milano (MXP)</option>
+				<option value="PSA">Pisa-Toscana (PSA)</option>
+				<option value="FCO">Rom-Fiumicino (FCO)</option>
+				<option value="OLB">Sardinia-Olbia (OLB)</option>
+				<option value="CTA">Sicily-Catania (CTA)</option>
+				<option value="PMO">Sicily-Palermo (PMO)</option>
+				<option value="VCE">Venedig (VCE)</option>
+				<option value="">--- Karibien ---</option>
+				<option value="PTP">Guadeloupe - Pointe-&#224;-Pitre (PTP)</option>
+				<option value="FDF">Martinique - Fort-de-France (FDF)</option>
+				<option value="SJU">Puerto Rico - San Juan (SJU)</option>
+				<option value="STX">De Vestindiske &#248;er - St Croix (STX)</option>
+				<option value="">--- Kosovo ---</option>
+				<option value="PRN">Priština (PRN)</option>
+				<option value="">--- Kroatien ---</option>
+				<option value="DBV">Dubrovnik (DBV)</option>
+				<option value="PUY">Pula (PUY)</option>
+				<option value="RJK">Rijeka (RJK)</option>
+				<option value="SPU">Split (SPU)</option>
+				<option value="ZAG">Zagreb (ZAG)</option>
+				<option value="">--- Letland ---</option>
+				<option value="RIX">Riga (RIX)</option>
+				<option value="">--- Litauen ---</option>
+				<option value="PLQ">Palanga/Klaipeda (PLQ)</option>
+				<option value="VNO">Vilnius (VNO)</option>
+				<option value="">--- Malta ---</option>
+				<option value="MLA">Malta (MLA)</option>
+				<option value="">--- Marokko ---</option>
+				<option value="AGA">Agadir (AGA)</option>
+				<option value="RAK">Marrakech (RAK)</option>
+				<option value="">--- Martinique ---</option>
+				<option value="FDF">Martinique - Fort-de-France (FDF)</option>
+				<option value="">--- Montenegro ---</option>
+				<option value="TIV">Montenegro-Tivat (TIV)</option>
+				<option value="">--- Norge ---</option>
+				<option value="ALF">Alta (ALF)</option>
+				<option value="ANX">Andenes (ANX)</option>
+				<option value="BDU">Bardufoss (BDU)</option>
+				<option value="BGO">Bergen (BGO)</option>
+				<option value="BOO">Bod&#248; (BOO)</option>
+				<option value="EVE">Harstad/Narvik (EVE)</option>
+				<option value="HAU">Haugesund (HAU)</option>
+				<option value="KKN">Kirkenes (KKN)</option>
+				<option value="KRS">Kristiansand (KRS)</option>
+				<option value="LKL">Lakselv (LKL)</option>
+				<option value="MOL">Molde (MOL)</option>
+				<option value="OSLALL">Oslo-Alle lufthavne (OSLALL)</option>
+				<option value="OSL">Oslo-Gardermoen (OSL)</option>
+				<option value="RYG">Oslo-Rygge (RYG)</option>
+				<option value="TRF">Sandefjord-Torp (TRF)</option>
+				<option value="SVG">Stavanger (SVG)</option>
+				<option value="TOS">Troms&#248; (TOS)</option>
+				<option value="TRD">Trondheim (TRD)</option>
+				<option value="AES">&#197;lesund (AES)</option>
+				<option value="">--- Norge-Svalbard ---</option>
+				<option value="LYR">Longyearbyen-Svalbard (LYR)</option>
+				<option value="">--- Polen ---</option>
+				<option value="GDN">Gdansk (GDN)</option>
+				<option value="KRK">Krakow (KRK)</option>
+				<option value="SZZ">Stettin (SZZ)</option>
+				<option value="WAW">Warszawa (WAW)</option>
+				<option value="">--- Portugal ---</option>
+				<option value="FAO">Algarve-Faro (FAO)</option>
+				<option value="LIS">Lissabon (LIS)</option>
+				<option value="FNC">Madeira (FNC)</option>
+				<option value="">--- Schweiz ---</option>
+				<option value="GVA">Gen&#232;ve (GVA)</option>
+				<option value="">--- Serbien ---</option>
+				<option value="BEG">Beograd (BEG)</option>
+				<option value="">--- Spanien ---</option>
+				<option value="ALC">Alicante (ALC)</option>
+				<option value="ALCALL">Alicante-Alle flyplasser (ALCALL)</option>
+				<option value="BCN">Barcelona (BCN)</option>
+				<option value="BIO">Bilbao (BIO)</option>
+				<option value="FUE">Fuerteventura (FUE)</option>
+				<option value="LPA">Gran Canaria (LPA)</option>
+				<option value="IBZ">Ibiza (IBZ)</option>
+				<option value="ACE">Lanzarote (ACE)</option>
+				<option value="MAD">Madrid (MAD)</option>
+				<option value="AGP">Malaga (AGP)</option>
+				<option value="PMI">Mallorca-Palma (PMI)</option>
+				<option value="MJV">Murcia-Alicante (MJV)</option>
+				<option value="TCIALL">Tenerife Alle lufthavne (TCIALL)</option>
+				<option value="TFN">Tenerife Norte (TFN)</option>
+				<option value="TFS">Tenerife S&#248;r (TFS)</option>
+				<option value="">--- Storbritannien ---</option>
+				<option value="BHX">Birmingham (BHX)</option>
+				<option value="EDI">Edinburgh (EDI)</option>
+				<option value="LGW">London-Gatwick (LGW)</option>
+				<option value="MAN">Manchester (MAN)</option>
+				<option value="">--- Sverige ---</option>
+				<option value="GOT">G&#246;teborg-Landvetter (GOT)</option>
+				<option value="KSD">Karlstad (KSD)</option>
+				<option value="KRN">Kiruna (KRN)</option>
+				<option value="LLA">Lule&#229; (LLA)</option>
+				<option value="MMX">Malm&#246; (MMX)</option>
+				<option value="ARN">Stockholm-Arlanda (ARN)</option>
+				<option value="UME">Ume&#229; (UME)</option>
+				<option value="VBY">Visby-Gotland (VBY)</option>
+				<option value="">--- Thailand ---</option>
+				<option value="BKK">Bangkok (BKK)</option>
+				<option value="">--- Tjekkiet ---</option>
+				<option value="PRG">Prag (PRG)</option>
+				<option value="">--- Turkey ---</option>
+				<option value="AYT">Antalya (AYT)</option>
+				<option value="DLM">Dalaman (DLM)</option>
+				<option value="SAW">Istanbul-Sabiha (SAW)</option>
+				<option value="">--- Tyskland ---</option>
+				<option value="BERALL">Berlin-Alle lufthavne (BERALL)</option>
+				<option value="SXF">Berlin-Sch&#246;nefeld (SXF)</option>
+				<option value="HAM">Hamburg (HAM)</option>
+				<option value="CGN">K&#248;ln/Bonn (CGN)</option>
+				<option value="MUC">M&#252;nchen (MUC)</option>
+				<option value="">--- Ungarn ---</option>
+				<option value="BUD">Budapest (BUD)</option>
+				<option value="">--- USA ---</option>
+				<option value="BWI">Baltimore/Washington (BWI)</option>
+				<option value="BOS">Boston (BOS)</option>
+				<option value="STX">De Vestindiske &#248;er - St Croix (STX)</option>
+				<option value="FLLALL">Florida-All airports (FLLALL)</option>
+				<option value="FLL">Florida-Fort Lauderdale/Miami (FLL)</option>
+				<option value="MCO">Florida-Orlando (MCO)</option>
+				<option value="LAS">Las Vegas (LAS)</option>
+				<option value="LAX">Los Angeles (LAX)</option>
+				<option value="JFK">New York (JFK)</option>
+				<option value="OAK">Oakland - San Francisco (OAK)</option>
+				<option value="SJU">Puerto Rico - San Juan (SJU)</option>
+				<option value="">--- &#216;strig ---</option>
+				<option value="SZG">Salzburg (SZG)</option>
+				<option value="VIE">Wien (VIE)</option>
+
+			</select>
+                            <!--googleon: index-->
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="label">
+                            Fly til
+                        </div>
+                        <div>
+                            <!--googleoff: index-->
+                            <select name="ctl00$MainContentRegion$LeftColumnRegion$ctl00$ctl00$ctl01$ctl00$ipcAvaSearchBox$ddnArrivalCity" id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnArrivalCity" class="selectdestination" style="width:200px;">
+				<option value="">- V&#230;lg destination -</option>
+			</select>
+                            <!--googleon: index-->
+                        </div>
+                    </div>
+                    <div id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_PanelTriptype" class="row">
+				
+                        <span class="radioboxaligned">
+                            <input type="radio" class="radio" name="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_TripType" id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_Radio2" value="2" checked="checked" onclick="toggleTripType(&#39;ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_TripType&#39;, &#39;ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_PanelArrival&#39;);" />
+                            <label for="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_Radio2">
+                                Returrejse</label>
+                        </span>
+                        <div class="separator"></div>
+                        <span class="radioboxaligned">
+                            <input type="radio" class="radio" name="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_TripType" id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_Radio1" value="1" onclick="toggleTripType(&#39;ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_TripType&#39;, &#39;ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_PanelArrival&#39;);" />
+                            <label for="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_Radio1">
+                                Envejs</label>
+                        </span>
+                    
+			</div>
+                </div>
+                <div class="line"></div>
+                <div class="dates">
+                    <div class="row">
+                        <div class="label">
+                            Udgående
+                        </div>
+                        <div>
+                            <select name="ctl00$MainContentRegion$LeftColumnRegion$ctl00$ctl00$ctl01$ctl00$ipcAvaSearchBox$ddnDepartureDay" id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureDay" class="selectday">
+				<option value="01">01</option>
+				<option value="02">02</option>
+				<option value="03">03</option>
+				<option value="04">04</option>
+				<option value="05">05</option>
+				<option value="06">06</option>
+				<option value="07">07</option>
+				<option value="08">08</option>
+				<option value="09">09</option>
+				<option value="10">10</option>
+				<option value="11">11</option>
+				<option value="12">12</option>
+				<option value="13">13</option>
+				<option value="14">14</option>
+				<option value="15">15</option>
+				<option selected="selected" value="16">16</option>
+				<option value="17">17</option>
+				<option value="18">18</option>
+				<option value="19">19</option>
+				<option value="20">20</option>
+				<option value="21">21</option>
+				<option value="22">22</option>
+				<option value="23">23</option>
+				<option value="24">24</option>
+				<option value="25">25</option>
+				<option value="26">26</option>
+				<option value="27">27</option>
+				<option value="28">28</option>
+				<option value="29">29</option>
+				<option value="30">30</option>
+				<option value="31">31</option>
+			</select>
+                            <select name="ctl00$MainContentRegion$LeftColumnRegion$ctl00$ctl00$ctl01$ctl00$ipcAvaSearchBox$ddnDepartureMonth" id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureMonth" class="selectmonth">
+				<option selected="selected" value="201511">nov. 2015</option>
+				<option value="201512">dec. 2015</option>
+				<option value="201601">jan. 2016</option>
+				<option value="201602">feb. 2016</option>
+				<option value="201603">mar. 2016</option>
+				<option value="201604">apr. 2016</option>
+				<option value="201605">maj. 2016</option>
+				<option value="201606">jun. 2016</option>
+				<option value="201607">jul. 2016</option>
+				<option value="201608">aug. 2016</option>
+				<option value="201609">sep. 2016</option>
+				<option value="201610">okt. 2016</option>
+			</select>
+                            <input name="ctl00$MainContentRegion$LeftColumnRegion$ctl00$ctl00$ctl01$ctl00$ipcAvaSearchBox$hiddenDepartureDate" type="hidden" id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_hiddenDepartureDate" />
+                        </div>
+                    </div>
+                    <div id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_PanelArrival" class="row">
+				
+                        <div class="label">
+                            Retur</div>
+                        <div>
+                            <select name="ctl00$MainContentRegion$LeftColumnRegion$ctl00$ctl00$ctl01$ctl00$ipcAvaSearchBox$ddnReturnDay" id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnReturnDay" class="selectday">
+					<option value="01">01</option>
+					<option value="02">02</option>
+					<option value="03">03</option>
+					<option value="04">04</option>
+					<option value="05">05</option>
+					<option value="06">06</option>
+					<option value="07">07</option>
+					<option value="08">08</option>
+					<option value="09">09</option>
+					<option value="10">10</option>
+					<option value="11">11</option>
+					<option value="12">12</option>
+					<option value="13">13</option>
+					<option value="14">14</option>
+					<option value="15">15</option>
+					<option selected="selected" value="16">16</option>
+					<option value="17">17</option>
+					<option value="18">18</option>
+					<option value="19">19</option>
+					<option value="20">20</option>
+					<option value="21">21</option>
+					<option value="22">22</option>
+					<option value="23">23</option>
+					<option value="24">24</option>
+					<option value="25">25</option>
+					<option value="26">26</option>
+					<option value="27">27</option>
+					<option value="28">28</option>
+					<option value="29">29</option>
+					<option value="30">30</option>
+					<option value="31">31</option>
+				</select>
+                            <select name="ctl00$MainContentRegion$LeftColumnRegion$ctl00$ctl00$ctl01$ctl00$ipcAvaSearchBox$ddnReturnMonth" id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnReturnMonth" class="selectmonth">
+					<option selected="selected" value="201511">nov. 2015</option>
+					<option value="201512">dec. 2015</option>
+					<option value="201601">jan. 2016</option>
+					<option value="201602">feb. 2016</option>
+					<option value="201603">mar. 2016</option>
+					<option value="201604">apr. 2016</option>
+					<option value="201605">maj. 2016</option>
+					<option value="201606">jun. 2016</option>
+					<option value="201607">jul. 2016</option>
+					<option value="201608">aug. 2016</option>
+					<option value="201609">sep. 2016</option>
+					<option value="201610">okt. 2016</option>
+				</select>
+                            <input name="ctl00$MainContentRegion$LeftColumnRegion$ctl00$ctl00$ctl01$ctl00$ipcAvaSearchBox$hiddenReturnDate" type="hidden" id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_hiddenReturnDate" />
+                        </div>
+                    
+			</div>
+                    <div id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_PanelOptionSearch" class="row">
+				
+                        <span class="radioboxaligned">
+                            <input type="radio" value="AvaDay" id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_radioAvaDaySearch" name="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBoxSearchType" class="radio" checked="checked" />
+                            <label for="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_radioAvaDaySearch">
+                                Vis valgt dato</label>
+                        </span>
+                        <div class="separator">
+                        </div>
+                        <span class="radioboxaligned">
+                            <input type="radio" value="FareCalendar" id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_radioFareCalendarSearch" name="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBoxSearchType" class="radio" />
+                            <label for="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_radioFareCalendarSearch">
+                                Vis lavpriskalender</label>
+                        </span>
+                    
+			</div>
+                    <div id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_PanelDivider" class="line">
+
+			</div>
+                </div>
+            </div>
+            <div class="rightcolumn">
+                <div id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_PanelSelectTravellers" class="row">
+				
+                    <div class="label">
+                        Passagerer
+                    </div>
+                    <div>
+                        <select name="ctl00$MainContentRegion$LeftColumnRegion$ctl00$ctl00$ctl01$ctl00$ipcAvaSearchBox$ddnAdultCount" id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnAdultCount" class="selecttraveller">
+					<option selected="selected" value="1">1 voksen</option>
+					<option value="2">2 voksne</option>
+					<option value="3">3 voksne</option>
+					<option value="4">4 voksne</option>
+					<option value="5">5 voksne</option>
+					<option value="6">6 voksne</option>
+					<option value="7">7 voksne</option>
+					<option value="8">8 voksne</option>
+					<option value="9">9 voksne</option>
+					<option value="x">Over 9 voksne</option>
+
+				</select>
+                    </div>
+                    <div>
+                        <select name="ctl00$MainContentRegion$LeftColumnRegion$ctl00$ctl00$ctl01$ctl00$ipcAvaSearchBox$ddnChildCount" id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnChildCount" class="selecttraveller">
+					<option value=""></option>
+				</select>
+                    </div>
+                    <div>
+                        <select name="ctl00$MainContentRegion$LeftColumnRegion$ctl00$ctl00$ctl01$ctl00$ipcAvaSearchBox$ddnInfantCount" id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnInfantCount" class="selecttraveller">
+					<option value=""></option>
+				</select>
+                    </div>
+                
+			</div>
+                <div class="search">
+                    <a href="javascript:DoSearchctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox();" id="ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBoxDaySearchWithFareCalendarOption" class="buttonsearch" onclick="DoTrackingctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox()">Søgning</a>
+                </div>
+            </div>
+            <div class="clearer">
+            </div>
+        
+		</div>
+    
+	</div>
+</div>
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+
+var countryPrefix = 'Country_';
+function formatCountriesSelect2(city) {
+    if (city.id.indexOf(countryPrefix) != -1) return "<div class='countryItem'>" + city.text + "</div>";
+    else return city.text;
+}
+function formatCountries(selectElementId) {
+    var selectElement = $(document.getElementById(selectElementId));
+    if (selectElement) {
+        var countryItems = selectElement.find("option[value*='" + countryPrefix + "']");
+        if (countryItems && countryItems.length > 0) {
+            $.each(countryItems, function(k, v) {
+                $(this).addClass('countryItem');
+                $(this).attr("disabled", "disabled");
+            });
+        }
+    }
+}
+function select2CountryMatcher(searchTerm, displayName)
+{
+    if (searchTerm == '') return true;
+    if (displayName.indexOf('-') == 0 || displayName.indexOf(' -') == 0) return false;
+    var result =  displayName.toUpperCase().indexOf(searchTerm.toUpperCase()) >= 0;
+    return result;
+}
+$(document).ready(function() {
+    var select2Enabled = true; 
+    var ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_selectedArrivalCity = '';
+
+    $("#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureCity").change(function() {
+        setIATAOptions($('#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnArrivalCity'), listDestinations, $("#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureCity")[0].value, ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_selectedArrivalCity, select2Enabled);
+    });
+
+    setDeparture(document.getElementById("ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureCity"), 'CPH');
+    setIATAOptions($('#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnArrivalCity'), listDestinations, $("#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureCity")[0].value, '', select2Enabled);
+    setArrival(document.getElementById("ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnArrivalCity"), '');
+    $("#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnArrivalCity").change(function() {
+        ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_selectedArrivalCity = $("#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnArrivalCity").val();
+    });
+    $("#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureDay, #ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureMonth").change(function() {
+        checkDateDisplay('ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureDay', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureMonth', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnReturnDay', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnReturnMonth', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_hiddenDepartureDate', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_hiddenReturnDate', 'DaySearchWithFareCalendarOption');
+    });
+    $("#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnReturnDay, #ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnReturnMonth").change(function() {
+        setHiddenDate('ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnReturnDay', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnReturnMonth', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_hiddenReturnDate');
+    });
+
+    if (select2Enabled) {
+        $("#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureCity").select2({formatResult: formatCountriesSelect2, matcher: select2CountryMatcher});
+        $("#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnArrivalCity").select2({formatResult: formatCountriesSelect2, matcher: select2CountryMatcher});
+    }
+    else {
+        formatCountries("ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureCity");
+    }
+   
+});                
+
+    function DoSearchctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox() {
+        if (getSearchTypectl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox('ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox') == 'FareCalendar') {
+            getFareCalendar('ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureMonth','ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnReturnMonth','ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureCity','ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnArrivalCity', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnAdultCount', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnChildCount', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnInfantCount',getTripTypectl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox('ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox'),document.getElementById('ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureDay'),document.getElementById('ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnReturnDay'))
+        } else {
+            getAvaSearch('ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureDay', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureMonth', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnReturnDay', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnReturnMonth', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnDepartureCity', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnArrivalCity', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_TripType', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnAdultCount', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnChildCount', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnInfantCount')
+        }
+    }
+    function DoTrackingctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox() {
+        if (getSearchTypectl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox('ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox') == 'FareCalendar') {
+            _gaq.push(['_trackEvent', 'SearchBox - Front Page', 'AvaDayWithFareCalendarOption', 'FareCalendar']);
+        } else {
+            _gaq.push(['_trackEvent', 'SearchBox - Front Page', 'AvaDayWithFareCalendarOption', 'Avaday']);
+        }
+    }
+    function getTripTypectl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox(clientId)
+    {
+        var tripType = $('input:radio[name=' + clientId + '_TripType]:checked').val();
+        if(tripType == '2') {
+            return '2';
+        }else {
+            return '1';
+        }
+    }
+    function getSearchTypectl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox(clientId) {
+        var searchType = $('input:radio[name=' + clientId + 'SearchType]:checked').val();
+        if(searchType == 'FareCalendar') {
+            return 'FareCalendar';
+        }else {
+            return 'Avaday';
+        }
+    }
+
+//]]>      
+</script>
+
+</div><div class="webpart last vertical">
+	
+<table width="222" height="92" border="0" cellpadding="0" cellspacing="0"><tr><td style="width: 222px; background-repeat:no-repeat;" background="/globalassets/Global/denmark/forside/2015/07July/week28/222x92-Skytrax-1.jpg"><a style="display:block; width:111; height:92px; background-repeat:no-repeat;" href="/dk/om-norwegian/fakta/vores-udmaerkelser/" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;Travel information - Front page&#39;, &#39;Ma&#39;, &#39;Skytrax&#39;]);"></a></td></tr><tr><td height="10px"></td></tr></table>
+</div>
+    </div>
+    <div>
+        <div class="webpart first vertical">
+	<div id="ctl00_MainContentRegion_LeftColumnRegion_ctl01_ctl00_ctl01_ctl00_ipcNewsletterSignupUnit_pnlNewsletterSignupBox" class="newslettersignupbox">
+		
+    <table>
+        <tr>
+            <td>
+                <span id="ctl00_MainContentRegion_LeftColumnRegion_ctl01_ctl00_ctl01_ctl00_ipcNewsletterSignupUnit_lblNewsletterSignupHeader">Få vores tilbud først</span>        
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input name="ctl00$MainContentRegion$LeftColumnRegion$ctl01$ctl00$ctl01$ctl00$ipcNewsletterSignupUnit$txtEmailAddress" type="text" value="E-postadresse" id="ctl00_MainContentRegion_LeftColumnRegion_ctl01_ctl00_ctl01_ctl00_ipcNewsletterSignupUnit_txtEmailAddress" title="E-postadresse" class="water" onfocus="if(this.value == &#39;E-postadresse&#39;) { this.value = &#39;&#39;; this.className = this.className.replace(&#39;water&#39;,&#39;&#39;);}" />
+                <input type="hidden" name="ctl00$MainContentRegion$LeftColumnRegion$ctl01$ctl00$ctl01$ctl00$ipcNewsletterSignupUnit$hiddenPostUrl" id="ctl00_MainContentRegion_LeftColumnRegion_ctl01_ctl00_ctl01_ctl00_ipcNewsletterSignupUnit_hiddenPostUrl" value="/dk/kundeservice/min-norwegian/newslettersignup/" />
+                <input name="ctl00$MainContentRegion$LeftColumnRegion$ctl01$ctl00$ctl01$ctl00$ipcNewsletterSignupUnit$BtnSubmit" type="button" id="ctl00_MainContentRegion_LeftColumnRegion_ctl01_ctl00_ctl01_ctl00_ipcNewsletterSignupUnit_BtnSubmit" onclick="javascript:btnSendClick();" value="Send" />
+            </td>
+        </tr>
+    </table>
+
+	</div>
+
+<script type="text/javascript">
+    function btnSendClick(){
+        var urlField = document.getElementById('ctl00_MainContentRegion_LeftColumnRegion_ctl01_ctl00_ctl01_ctl00_ipcNewsletterSignupUnit_hiddenPostUrl');
+        var url = urlField.value;
+        
+        var emailaddressField = document.getElementById('ctl00_MainContentRegion_LeftColumnRegion_ctl01_ctl00_ctl01_ctl00_ipcNewsletterSignupUnit_txtEmailAddress');
+        var emailaddress = emailaddressField.value;
+        
+        var tooltip = emailaddressField.title;
+        
+        if(url.length > 0 && emailaddress.length > 0){
+            if(emailaddress != tooltip){
+                url = url + "?email=" + emailaddress;
+                document.location.href = url;
+            }
+        }
+    }
+</script>
+</div><div class="webpart last vertical">
+	<a id="ctl00_MainContentRegion_LeftColumnRegion_ctl01_ctl00_ctl02_ctl00_lnkClickable" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;Banner Internal - Front Page&#39;, &#39;Rutekort&#39;, &#39;\x2fdk\x2ffly\x2frutekort&#39;]);" href="/dk/fly/rutekort"><img src="/globalassets/global/denmark/forside/2012/04april/ny_gradient/rutekart.jpg" id="ctl00_MainContentRegion_LeftColumnRegion_ctl01_ctl00_ctl02_ctl00_img" alt="Rutekart" /></a>
+</div>
+    </div>
+
+                                                <div class="leftcontent">
+                                                    
+                                                    
+                                                </div>
+                                            </td>
+                                            <td class="layoutcellcenter" width="500">
+                                                <div class="centercontent">
+                                                    
+                                                    
+
+                                                    
+    
+    <div>
+        <div class="webpart single vertical">
+	<a id="ctl00_MainContentRegion_MainRegion_epCenterColContentArea_ctl00_ctl01_ctl00_lnkClickable" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;Banner Internal - Front Page&#39;, &#39;F1 - Storby - 101115&#39;, &#39;\x2fdk\x2ffly\x2ftips\x2f\x3fD_City\x3dCPH\x26DestinationGroup\x3d7\x26CurrencyCode\x3dDKK\x26IncludeTransit\x3dFalse\x26rnd\x3d97939&#39;]);" href="/dk/fly/tips/?D_City=CPH&amp;DestinationGroup=7&amp;CurrencyCode=DKK&amp;IncludeTransit=False&amp;rnd=97939"><img src="/globalassets/global/denmark/forside/2015/11november/week46/528_f1-uge-36-isomnia_page1_nas_f.jpg" id="ctl00_MainContentRegion_MainRegion_epCenterColContentArea_ctl00_ctl01_ctl00_img" alt="Storby" width="500" height="282" /></a>
+</div>
+    </div>
+    <div>
+        <div class="webpart first vertical">
+	
+<table width="500" border="0" cellpadding="0" cellspacing="0">
+<td colspan="3" align="left"><img src="/globalassets/global/denmark/forside/2015/11November/week45/Frontpage_Holidays_LGW-FLL_DK_500x136uge45.gif" width="500" height="136" usemap="#Map" border="0" />
+<map name="Map" id="Map"><area shape="rect" coords="5,10,125,131" href="https://www.norwegianholidays.com/travel/landing_page_hotels.cfm?searchKey=LGW_from_wk45_dk&amp;nav=DKearn" target="_blank" onMouseDown="_gaq.push([&#39;_trackEvent&#39;, &#39;Ancillary - Front page&#39;, &#39;F7a&#39;, &#39;NH - LGW&#39;]);" />
+
+
+
+
+
+
+<area shape="rect" coords="136,10,252,129" href="https://www.norwegianholidays.com/travel/landing_page_hotels.cfm?searchKey=FLL_from_wk45_dk&amp;nav=DKearn" target="_blank" onMouseDown="_gaq.push([&#39;_trackEvent&#39;, &#39;Ancillary - Front page&#39;, &#39;F7b&#39;, &#39;NH - FLL&#39;]);" />
+
+
+</map></td></table>
+
+
+<table width="500" border="0" cellpadding="0" cellspacing="0"><tr><td width="111" height="92" align="center"><a href="/dk/Nyttig-pa-reisen/Rejseservice/rejseassistent/" onClick="_gaq.push([&#39;_trackEvent&#39;, &#39;Travel information - Front page&#39;, &#39;Mc&#39;, &#39;Rejseassistent&#39;]);"><img src="/globalassets/Global/denmark/forside/2013/Icons/100113_DK_rejseass_111x92_mc_04.png" width="125" height="92" border="0" /></a></td><td width="125" align="center"><a href="/dk/om-norwegian/fakta/flade/sky-interior/" onClick="_gaq.push([&#39;_trackEvent&#39;, &#39;Travel information - Front page&#39;, &#39;Md&#39;, &#39;Nye-fly&#39;]);"><img src="/globalassets/Global/denmark/forside/2012/11november/ikoner/attributesPanel_05.png" width="125" height="92" border="0" /></a></td><td width="125" align="center"><a href="/dk/Nyttig-pa-reisen/Rejseservice/wifi/" onClick="_gaq.push([&#39;_trackEvent&#39;, &#39;Travel information - Front page&#39;, &#39;Me&#39;, &#39;WiFi&#39;]);"><img src="/globalassets/Global/denmark/forside/2012/11november/ikoner/attributesPanel_06.png" width="125" height="92" border="0" /></a></td><td width="125" align="left"><a href="/dk/Nyttig-pa-reisen/Reisetjenester/Endre-reise/" onClick="_gaq.push([&#39;_trackEvent&#39;, &#39;Travel information - Front page&#39;, &#39;Mf&#39;, &#39;Fleksible-billetter&#39;]);"><img src="/globalassets/Global/denmark/forside/2012/11november/ikoner/attributesPanel_07.png" width="125" height="92" border="0" /></a></td></tr></table>
+</div><div class="webpart last vertical">
+	
+<div class="searchboxcontainer">
+    <div id="ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_pnlType" class="farecalendarsearchbox searchboxhorizontal">
+		
+        <div id="ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_pnlLayout" class="horizontal">
+			
+            <div id="ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_PanelTitleHeader" class="headerbox">
+				
+                <h1 style='font-size: 13px'><span style="font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#565648;">Flyv billigt med lavpriskalenderen</span></h1>
+                
+            
+			</div>
+            <div class="leftcolumn">
+                <div class="destinations">
+                    <div class="row">
+                        <div class="label">
+                            Fly fra
+                        </div>
+                        <div>
+                            <!--googleoff: index-->
+                            <select name="ctl00$MainContentRegion$MainRegion$epCenterColMiddleContentArea$ctl00$ctl02$ctl00$ipcAvaSearchBox$ddnDepartureCity" id="ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnDepartureCity" class="selectdestination" style="width:200px;">
+				<option value="">- V&#230;lg afgang -</option>
+				<option value="CPH">K&#248;benhavn (CPH)</option>
+				<option value="AAL">Aalborg (AAL)</option>
+				<option value="BLL">Billund (BLL)</option>
+				<option value="ARN">Stockholm-Arlanda (ARN)</option>
+				<option value="OSL">Oslo-Gardermoen (OSL)</option>
+				<option value="">------------------------------</option>
+				<option value="">--- Bosnien-Herzegovina ---</option>
+				<option value="SJJ">Sarajevo (SJJ)</option>
+				<option value="">--- Bulgarien ---</option>
+				<option value="BOJ">Burgas (BOJ)</option>
+				<option value="VAR">Varna (VAR)</option>
+				<option value="">--- Cypern ---</option>
+				<option value="LCA">Cypern-Larnaca (LCA)</option>
+				<option value="">--- Danmark ---</option>
+				<option value="BLL">Billund (BLL)</option>
+				<option value="CPH">K&#248;benhavn (CPH)</option>
+				<option value="AAL">Aalborg (AAL)</option>
+				<option value="">--- Estland ---</option>
+				<option value="TLL">Tallinn (TLL)</option>
+				<option value="">--- Finland ---</option>
+				<option value="HEL">Helsinki (HEL)</option>
+				<option value="IVL">Ivalo (IVL)</option>
+				<option value="KTT">Kittila (KTT)</option>
+				<option value="OUL">Oulu (OUL)</option>
+				<option value="RVN">Rovaniemi (RVN)</option>
+				<option value="VAA">Vaasa (VAA)</option>
+				<option value="">--- Forenede Arabiske Emirater ---</option>
+				<option value="DXB">Dubai (DXB)</option>
+				<option value="">--- Frankrig ---</option>
+				<option value="BOD">Bordeaux (BOD)</option>
+				<option value="GNB">Grenoble (GNB)</option>
+				<option value="AJA">Korsika-Ajaccio (AJA)</option>
+				<option value="BIA">Korsika-Bastia (BIA)</option>
+				<option value="MRS">Marseille-Provence (MRS)</option>
+				<option value="MPL">Montpellier (MPL)</option>
+				<option value="NCE">Nice (NCE)</option>
+				<option value="ORY">Paris-Orly (ORY)</option>
+				<option value="">--- Gr&#230;kenland ---</option>
+				<option value="ATH">Athen (ATH)</option>
+				<option value="EFL">Kefalonia (EFL)</option>
+				<option value="CFU">Korfu (CFU)</option>
+				<option value="KGS">Kos (KGS)</option>
+				<option value="CHQ">Kreta-Chania (CHQ)</option>
+				<option value="HER">Kreta-Heraklion (HER)</option>
+				<option value="PVK">Lefkas Preveza (PVK)</option>
+				<option value="RHO">Rhodos (RHO)</option>
+				<option value="JTR">Santorini (JTR)</option>
+				<option value="">--- Guadeloupe ---</option>
+				<option value="PTP">Guadeloupe - Pointe-&#224;-Pitre (PTP)</option>
+				<option value="">--- Holland ---</option>
+				<option value="AMS">Amsterdam (AMS)</option>
+				<option value="">--- Irland ---</option>
+				<option value="DUB">Dublin (DUB)</option>
+				<option value="">--- Island ---</option>
+				<option value="KEF">Reykjavik (KEF)</option>
+				<option value="">--- Israel ---</option>
+				<option value="TLV">Tel Aviv (TLV)</option>
+				<option value="">--- Italien ---</option>
+				<option value="MXP">Milano (MXP)</option>
+				<option value="PSA">Pisa-Toscana (PSA)</option>
+				<option value="FCO">Rom-Fiumicino (FCO)</option>
+				<option value="OLB">Sardinia-Olbia (OLB)</option>
+				<option value="CTA">Sicily-Catania (CTA)</option>
+				<option value="PMO">Sicily-Palermo (PMO)</option>
+				<option value="VCE">Venedig (VCE)</option>
+				<option value="">--- Karibien ---</option>
+				<option value="PTP">Guadeloupe - Pointe-&#224;-Pitre (PTP)</option>
+				<option value="FDF">Martinique - Fort-de-France (FDF)</option>
+				<option value="SJU">Puerto Rico - San Juan (SJU)</option>
+				<option value="STX">De Vestindiske &#248;er - St Croix (STX)</option>
+				<option value="">--- Kosovo ---</option>
+				<option value="PRN">Priština (PRN)</option>
+				<option value="">--- Kroatien ---</option>
+				<option value="DBV">Dubrovnik (DBV)</option>
+				<option value="PUY">Pula (PUY)</option>
+				<option value="RJK">Rijeka (RJK)</option>
+				<option value="SPU">Split (SPU)</option>
+				<option value="ZAG">Zagreb (ZAG)</option>
+				<option value="">--- Letland ---</option>
+				<option value="RIX">Riga (RIX)</option>
+				<option value="">--- Litauen ---</option>
+				<option value="PLQ">Palanga/Klaipeda (PLQ)</option>
+				<option value="VNO">Vilnius (VNO)</option>
+				<option value="">--- Malta ---</option>
+				<option value="MLA">Malta (MLA)</option>
+				<option value="">--- Marokko ---</option>
+				<option value="AGA">Agadir (AGA)</option>
+				<option value="RAK">Marrakech (RAK)</option>
+				<option value="">--- Martinique ---</option>
+				<option value="FDF">Martinique - Fort-de-France (FDF)</option>
+				<option value="">--- Montenegro ---</option>
+				<option value="TIV">Montenegro-Tivat (TIV)</option>
+				<option value="">--- Norge ---</option>
+				<option value="ALF">Alta (ALF)</option>
+				<option value="ANX">Andenes (ANX)</option>
+				<option value="BDU">Bardufoss (BDU)</option>
+				<option value="BGO">Bergen (BGO)</option>
+				<option value="BOO">Bod&#248; (BOO)</option>
+				<option value="EVE">Harstad/Narvik (EVE)</option>
+				<option value="HAU">Haugesund (HAU)</option>
+				<option value="KKN">Kirkenes (KKN)</option>
+				<option value="KRS">Kristiansand (KRS)</option>
+				<option value="LKL">Lakselv (LKL)</option>
+				<option value="MOL">Molde (MOL)</option>
+				<option value="OSLALL">Oslo-Alle lufthavne (OSLALL)</option>
+				<option value="OSL">Oslo-Gardermoen (OSL)</option>
+				<option value="RYG">Oslo-Rygge (RYG)</option>
+				<option value="TRF">Sandefjord-Torp (TRF)</option>
+				<option value="SVG">Stavanger (SVG)</option>
+				<option value="TOS">Troms&#248; (TOS)</option>
+				<option value="TRD">Trondheim (TRD)</option>
+				<option value="AES">&#197;lesund (AES)</option>
+				<option value="">--- Norge-Svalbard ---</option>
+				<option value="LYR">Longyearbyen-Svalbard (LYR)</option>
+				<option value="">--- Polen ---</option>
+				<option value="GDN">Gdansk (GDN)</option>
+				<option value="KRK">Krakow (KRK)</option>
+				<option value="SZZ">Stettin (SZZ)</option>
+				<option value="WAW">Warszawa (WAW)</option>
+				<option value="">--- Portugal ---</option>
+				<option value="FAO">Algarve-Faro (FAO)</option>
+				<option value="LIS">Lissabon (LIS)</option>
+				<option value="FNC">Madeira (FNC)</option>
+				<option value="">--- Schweiz ---</option>
+				<option value="GVA">Gen&#232;ve (GVA)</option>
+				<option value="">--- Serbien ---</option>
+				<option value="BEG">Beograd (BEG)</option>
+				<option value="">--- Spanien ---</option>
+				<option value="ALC">Alicante (ALC)</option>
+				<option value="ALCALL">Alicante-Alle flyplasser (ALCALL)</option>
+				<option value="BCN">Barcelona (BCN)</option>
+				<option value="BIO">Bilbao (BIO)</option>
+				<option value="FUE">Fuerteventura (FUE)</option>
+				<option value="LPA">Gran Canaria (LPA)</option>
+				<option value="IBZ">Ibiza (IBZ)</option>
+				<option value="ACE">Lanzarote (ACE)</option>
+				<option value="MAD">Madrid (MAD)</option>
+				<option value="AGP">Malaga (AGP)</option>
+				<option value="PMI">Mallorca-Palma (PMI)</option>
+				<option value="MJV">Murcia-Alicante (MJV)</option>
+				<option value="TCIALL">Tenerife Alle lufthavne (TCIALL)</option>
+				<option value="TFN">Tenerife Norte (TFN)</option>
+				<option value="TFS">Tenerife S&#248;r (TFS)</option>
+				<option value="">--- Storbritannien ---</option>
+				<option value="BHX">Birmingham (BHX)</option>
+				<option value="EDI">Edinburgh (EDI)</option>
+				<option value="LGW">London-Gatwick (LGW)</option>
+				<option value="MAN">Manchester (MAN)</option>
+				<option value="">--- Sverige ---</option>
+				<option value="GOT">G&#246;teborg-Landvetter (GOT)</option>
+				<option value="KSD">Karlstad (KSD)</option>
+				<option value="KRN">Kiruna (KRN)</option>
+				<option value="LLA">Lule&#229; (LLA)</option>
+				<option value="MMX">Malm&#246; (MMX)</option>
+				<option value="ARN">Stockholm-Arlanda (ARN)</option>
+				<option value="UME">Ume&#229; (UME)</option>
+				<option value="VBY">Visby-Gotland (VBY)</option>
+				<option value="">--- Thailand ---</option>
+				<option value="BKK">Bangkok (BKK)</option>
+				<option value="">--- Tjekkiet ---</option>
+				<option value="PRG">Prag (PRG)</option>
+				<option value="">--- Turkey ---</option>
+				<option value="AYT">Antalya (AYT)</option>
+				<option value="DLM">Dalaman (DLM)</option>
+				<option value="SAW">Istanbul-Sabiha (SAW)</option>
+				<option value="">--- Tyskland ---</option>
+				<option value="BERALL">Berlin-Alle lufthavne (BERALL)</option>
+				<option value="SXF">Berlin-Sch&#246;nefeld (SXF)</option>
+				<option value="HAM">Hamburg (HAM)</option>
+				<option value="CGN">K&#248;ln/Bonn (CGN)</option>
+				<option value="MUC">M&#252;nchen (MUC)</option>
+				<option value="">--- Ungarn ---</option>
+				<option value="BUD">Budapest (BUD)</option>
+				<option value="">--- USA ---</option>
+				<option value="BWI">Baltimore/Washington (BWI)</option>
+				<option value="BOS">Boston (BOS)</option>
+				<option value="STX">De Vestindiske &#248;er - St Croix (STX)</option>
+				<option value="FLLALL">Florida-All airports (FLLALL)</option>
+				<option value="FLL">Florida-Fort Lauderdale/Miami (FLL)</option>
+				<option value="MCO">Florida-Orlando (MCO)</option>
+				<option value="LAS">Las Vegas (LAS)</option>
+				<option value="LAX">Los Angeles (LAX)</option>
+				<option value="JFK">New York (JFK)</option>
+				<option value="OAK">Oakland - San Francisco (OAK)</option>
+				<option value="SJU">Puerto Rico - San Juan (SJU)</option>
+				<option value="">--- &#216;strig ---</option>
+				<option value="SZG">Salzburg (SZG)</option>
+				<option value="VIE">Wien (VIE)</option>
+
+			</select>
+                            <!--googleon: index-->
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="label">
+                            Fly til
+                        </div>
+                        <div>
+                            <!--googleoff: index-->
+                            <select name="ctl00$MainContentRegion$MainRegion$epCenterColMiddleContentArea$ctl00$ctl02$ctl00$ipcAvaSearchBox$ddnArrivalCity" id="ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnArrivalCity" class="selectdestination" style="width:200px;">
+				<option value="">- V&#230;lg destination -</option>
+			</select>
+                            <!--googleon: index-->
+                        </div>
+                    </div>
+                    
+                </div>
+                <div class="divider"></div>
+                <div class="dates">
+                    <div class="row">
+                        <div class="label">
+                            Udgående
+                        </div>
+                        <div>
+                            <select name="ctl00$MainContentRegion$MainRegion$epCenterColMiddleContentArea$ctl00$ctl02$ctl00$ipcAvaSearchBox$ddnDepartureDay" id="ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnDepartureDay" class="selectday" style="Display:none;">
+				<option value="01">01</option>
+				<option value="02">02</option>
+				<option value="03">03</option>
+				<option value="04">04</option>
+				<option value="05">05</option>
+				<option value="06">06</option>
+				<option value="07">07</option>
+				<option value="08">08</option>
+				<option value="09">09</option>
+				<option value="10">10</option>
+				<option value="11">11</option>
+				<option value="12">12</option>
+				<option value="13">13</option>
+				<option value="14">14</option>
+				<option value="15">15</option>
+				<option selected="selected" value="16">16</option>
+				<option value="17">17</option>
+				<option value="18">18</option>
+				<option value="19">19</option>
+				<option value="20">20</option>
+				<option value="21">21</option>
+				<option value="22">22</option>
+				<option value="23">23</option>
+				<option value="24">24</option>
+				<option value="25">25</option>
+				<option value="26">26</option>
+				<option value="27">27</option>
+				<option value="28">28</option>
+				<option value="29">29</option>
+				<option value="30">30</option>
+				<option value="31">31</option>
+			</select>
+                            <select name="ctl00$MainContentRegion$MainRegion$epCenterColMiddleContentArea$ctl00$ctl02$ctl00$ipcAvaSearchBox$ddnDepartureMonth" id="ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnDepartureMonth" class="selectmonth">
+				<option selected="selected" value="201511">november 2015</option>
+				<option value="201512">december 2015</option>
+				<option value="201601">januar 2016</option>
+				<option value="201602">februar 2016</option>
+				<option value="201603">marts 2016</option>
+				<option value="201604">april 2016</option>
+				<option value="201605">maj 2016</option>
+				<option value="201606">juni 2016</option>
+				<option value="201607">juli 2016</option>
+				<option value="201608">august 2016</option>
+				<option value="201609">september 2016</option>
+				<option value="201610">oktober 2016</option>
+			</select>
+                            <input name="ctl00$MainContentRegion$MainRegion$epCenterColMiddleContentArea$ctl00$ctl02$ctl00$ipcAvaSearchBox$hiddenDepartureDate" type="hidden" id="ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_hiddenDepartureDate" />
+                        </div>
+                    </div>
+                    <div id="ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_PanelArrival" class="row">
+				
+                        <div class="label">
+                            Retur</div>
+                        <div>
+                            <select name="ctl00$MainContentRegion$MainRegion$epCenterColMiddleContentArea$ctl00$ctl02$ctl00$ipcAvaSearchBox$ddnReturnDay" id="ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnReturnDay" class="selectday" style="Display:none;">
+					<option value="01">01</option>
+					<option value="02">02</option>
+					<option value="03">03</option>
+					<option value="04">04</option>
+					<option value="05">05</option>
+					<option value="06">06</option>
+					<option value="07">07</option>
+					<option value="08">08</option>
+					<option value="09">09</option>
+					<option value="10">10</option>
+					<option value="11">11</option>
+					<option value="12">12</option>
+					<option value="13">13</option>
+					<option value="14">14</option>
+					<option value="15">15</option>
+					<option selected="selected" value="16">16</option>
+					<option value="17">17</option>
+					<option value="18">18</option>
+					<option value="19">19</option>
+					<option value="20">20</option>
+					<option value="21">21</option>
+					<option value="22">22</option>
+					<option value="23">23</option>
+					<option value="24">24</option>
+					<option value="25">25</option>
+					<option value="26">26</option>
+					<option value="27">27</option>
+					<option value="28">28</option>
+					<option value="29">29</option>
+					<option value="30">30</option>
+					<option value="31">31</option>
+				</select>
+                            <select name="ctl00$MainContentRegion$MainRegion$epCenterColMiddleContentArea$ctl00$ctl02$ctl00$ipcAvaSearchBox$ddnReturnMonth" id="ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnReturnMonth" class="selectmonth">
+					<option value="">Jeg &#248;nsker kun at foretage enkeltrejse</option>
+					<option selected="selected" value="201511">november 2015</option>
+					<option value="201512">december 2015</option>
+					<option value="201601">januar 2016</option>
+					<option value="201602">februar 2016</option>
+					<option value="201603">marts 2016</option>
+					<option value="201604">april 2016</option>
+					<option value="201605">maj 2016</option>
+					<option value="201606">juni 2016</option>
+					<option value="201607">juli 2016</option>
+					<option value="201608">august 2016</option>
+					<option value="201609">september 2016</option>
+					<option value="201610">oktober 2016</option>
+				</select>
+                            <input name="ctl00$MainContentRegion$MainRegion$epCenterColMiddleContentArea$ctl00$ctl02$ctl00$ipcAvaSearchBox$hiddenReturnDate" type="hidden" id="ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_hiddenReturnDate" />
+                        </div>
+                    
+			</div>
+                    
+                    
+                </div>
+            </div>
+            <div class="rightcolumn">
+                
+                <div class="search">
+                    <a href="javascript:getFareCalendar(&#39;ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnDepartureMonth&#39;,&#39;ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnReturnMonth&#39;,&#39;ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnDepartureCity&#39;,&#39;ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnArrivalCity&#39;, &#39;ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnAdultCount&#39;, &#39;ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnChildCount&#39;, &#39;ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnInfantCount&#39;,null,null,null);" id="ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBoxFareCalendar" class="buttonsearch" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;SearchBox - Front Page&#39;, &#39;FareCalendar&#39;]);">Søgning</a>
+                </div>
+            </div>
+            <div class="clearer">
+            </div>
+        
+		</div>
+    
+	</div>
+</div>
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+
+var countryPrefix = 'Country_';
+function formatCountriesSelect2(city) {
+    if (city.id.indexOf(countryPrefix) != -1) return "<div class='countryItem'>" + city.text + "</div>";
+    else return city.text;
+}
+function formatCountries(selectElementId) {
+    var selectElement = $(document.getElementById(selectElementId));
+    if (selectElement) {
+        var countryItems = selectElement.find("option[value*='" + countryPrefix + "']");
+        if (countryItems && countryItems.length > 0) {
+            $.each(countryItems, function(k, v) {
+                $(this).addClass('countryItem');
+                $(this).attr("disabled", "disabled");
+            });
+        }
+    }
+}
+function select2CountryMatcher(searchTerm, displayName)
+{
+    if (searchTerm == '') return true;
+    if (displayName.indexOf('-') == 0 || displayName.indexOf(' -') == 0) return false;
+    var result =  displayName.toUpperCase().indexOf(searchTerm.toUpperCase()) >= 0;
+    return result;
+}
+$(document).ready(function() {
+    var select2Enabled = true; 
+    var ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_selectedArrivalCity = '';
+
+    $("#ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnDepartureCity").change(function() {
+        setIATAOptions($('#ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnArrivalCity'), listDestinations, $("#ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnDepartureCity")[0].value, ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_selectedArrivalCity, select2Enabled);
+    });
+
+    setDeparture(document.getElementById("ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnDepartureCity"), 'CPH');
+    setIATAOptions($('#ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnArrivalCity'), listDestinations, $("#ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnDepartureCity")[0].value, '', select2Enabled);
+    setArrival(document.getElementById("ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnArrivalCity"), '');
+    $("#ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnArrivalCity").change(function() {
+        ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_selectedArrivalCity = $("#ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnArrivalCity").val();
+    });
+    $("#ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnDepartureDay, #ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnDepartureMonth").change(function() {
+        checkDateDisplay('ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnDepartureDay', 'ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnDepartureMonth', 'ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnReturnDay', 'ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnReturnMonth', 'ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_hiddenDepartureDate', 'ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_hiddenReturnDate', 'FareCalendar');
+    });
+    $("#ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnReturnDay, #ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnReturnMonth").change(function() {
+        setHiddenDate('ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnReturnDay', 'ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnReturnMonth', 'ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_hiddenReturnDate');
+    });
+
+    if (select2Enabled) {
+        $("#ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnDepartureCity").select2({formatResult: formatCountriesSelect2, matcher: select2CountryMatcher});
+        $("#ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnArrivalCity").select2({formatResult: formatCountriesSelect2, matcher: select2CountryMatcher});
+    }
+    else {
+        formatCountries("ctl00_MainContentRegion_MainRegion_epCenterColMiddleContentArea_ctl00_ctl02_ctl00_ipcAvaSearchBox_ddnDepartureCity");
+    }
+   
+});                
+
+//]]>      
+</script>
+
+</div>
+    </div>
+    <div class="centerbottomzone">
+        
+    </div>
+
+                                                    
+                                                </div>
+                                            </td>
+                                            <td class="layoutcellright" width="220">
+                                                <div class="rightcontent">
+                                                    
+    <div class="rightzone">
+        <div class="webpart first vertical">
+	<a id="ctl00_MainContentRegion_RightColumnRegion_epRightColContentArea_ctl00_ctl01_ctl00_lnkClickable" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;Banner Internal - Front Page&#39;, &#39;F2  - Budapest- 101115&#39;, &#39;\x2fdk\x2ffly\x2flavpris\x2f\x3fD_City\x3dCPH\x26A_City\x3dBUD\x26D_Day\x3d01\x26D_Month\x3d201511\x26R_Day\x3d01\x26R_Month\x3d201511\x26IncludeTransit\x3dfalse\x26AgreementCodeFK\x3d-1\x26CurrencyCode\x3dDKK&#39;]);" href="/dk/fly/lavpris/?D_City=CPH&amp;A_City=BUD&amp;D_Day=01&amp;D_Month=201511&amp;R_Day=01&amp;R_Month=201511&amp;IncludeTransit=false&amp;AgreementCodeFK=-1&amp;CurrencyCode=DKK"><img src="/globalassets/global/denmark/forside/2015/11november/week46/709_f2-bud-uge-46_page1_nas_f.jpg" id="ctl00_MainContentRegion_RightColumnRegion_epRightColContentArea_ctl00_ctl01_ctl00_img" alt="Budapest" /></a>
+</div><div class="webpart sibling vertical">
+	<a id="ctl00_MainContentRegion_RightColumnRegion_epRightColContentArea_ctl00_ctl02_ctl00_lnkClickable" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;Banner Internal - Front Page&#39;, &#39;F3 - CPH - HEL - 101115&#39;, &#39;\x2fdk\x2ffly\x2flavpris\x2f\x3fD_City\x3dCPH\x26A_City\x3dHEL\x26D_Day\x3d01\x26D_Month\x3d201511\x26R_Day\x3d01\x26R_Month\x3d201511\x26IncludeTransit\x3dfalse\x26AgreementCodeFK\x3d-1\x26CurrencyCode\x3dDKK&#39;]);" href="/dk/fly/lavpris/?D_City=CPH&amp;A_City=HEL&amp;D_Day=01&amp;D_Month=201511&amp;R_Day=01&amp;R_Month=201511&amp;IncludeTransit=false&amp;AgreementCodeFK=-1&amp;CurrencyCode=DKK"><img src="/globalassets/global/denmark/forside/2015/11november/week46/710_f3-hel-uge-46_page1_nas_f.jpg" id="ctl00_MainContentRegion_RightColumnRegion_epRightColContentArea_ctl00_ctl02_ctl00_img" alt="CPH - HEL" /></a>
+</div><div class="webpart sibling vertical">
+	<a id="ctl00_MainContentRegion_RightColumnRegion_epRightColContentArea_ctl00_ctl03_ctl00_lnkClickable" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;Banner Internal - Front Page&#39;, &#39;F4 - USA - 101115&#39;, &#39;\x2fdk\x2ffly\x2ftips\x2f\x3fD_City\x3dCPH\x26DestinationGroup\x3d15\x26CurrencyCode\x3dDKK\x26IncludeTransit\x3dFalse\x26rnd\x3d49323&#39;]);" href="/dk/fly/tips/?D_City=CPH&amp;DestinationGroup=15&amp;CurrencyCode=DKK&amp;IncludeTransit=False&amp;rnd=49323"><img src="/globalassets/global/denmark/forside/2015/11november/week46/711_f4-usa-uge-46_page1_nas_f.jpg" id="ctl00_MainContentRegion_RightColumnRegion_epRightColContentArea_ctl00_ctl03_ctl00_img" alt="USA" /></a>
+</div><div class="webpart sibling vertical">
+	
+<table width="220" height="92" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="width: 110px; background-repeat:no-repeat;" background="/globalassets/Global/denmark/forside/2012/11november/ikoner/attributesPanel_09.png"><a style="display:block; width:110; height:92px; background-repeat:no-repeat;" href="/dk/norwegianreward/norwegianreward/" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;Travel information - Front page&#39;, &#39;Mg&#39;, &#39;Fordelsprogram&#39;]);"><span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#FFF;"></span></a></td>
+    <td style="width: 110px; background-repeat:no-repeat;" background="/globalassets/Global/denmark/forside/2012/11november/ikoner/attributesPanel_10.png"><a style="display:block; width:110; height:92px; background-repeat:no-repeat;" href="/dk/om-norwegian/samfunnsansvar/miljo/" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;Travel information - Front page&#39;, &#39;Mh&#39;, &#39;Miljovennlige-fly&#39;]);"><span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#FFF;"></span></a></td>
+  </tr>
+
+</table>
+</div><div class="webpart last vertical">
+	<a id="ctl00_MainContentRegion_RightColumnRegion_epRightColContentArea_ctl00_ctl05_ctl00_lnkClickable" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;Banner Internal - Front Page&#39;, &#39;R1 - Application - 101115&#39;, &#39;\x2fdk\x2fNyttig-pa-reisen\x2frejseservice\x2frejseassistent\x2f&#39;]);" href="/dk/Nyttig-pa-reisen/rejseservice/rejseassistent/"><img src="/globalassets/global/denmark/forside/2015/11november/week46/r-banner-220x119_dk-uge-46.gif" id="ctl00_MainContentRegion_RightColumnRegion_epRightColContentArea_ctl00_ctl05_ctl00_img" alt="Application" width="220" height="119" /></a>
+</div>
+    </div>
+
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                
+                                
+    <div id="ctl00_MainBottomContentRegion_divMainBottomContentRegion">
+        <div class="horizontalline">
+        </div>
+        <table class="pagelayouttable" cellspacing="0" cellpadding="0">
+            <tr>
+                <td class="layoutcellleft" width="220">
+                    
+
+<div class="sectionboxsquaredboxes">
+    <div class="headerbox">Mit Norwegian</div>
+    
+            <div class="bodybox">
+                <ul>
+        
+            <li>
+                <a href="/dk/my-norwegian/log-ind/" target="_top">Log ind</a>
+            </li>
+        
+            <li>
+                <a href="/dk/my-norwegian/reserver-plads/" target="_top">Reserver plads</a>
+            </li>
+        
+            <li>
+                <a href="/dk/my-norwegian/pay-for-special-baggage/" target="_top">Specialbagage</a>
+            </li>
+        
+            <li>
+                <a href="/dk/my-norwegian/bestil-bagage/" target="_top">Bestil bagage</a>
+            </li>
+        
+            <li>
+                <a href="/dk/my-norwegian/find-reservation/">Find reservation</a>
+            </li>
+        
+            <li>
+                <a href="/dk/my-norwegian/rejsedokumenter/" target="_top">Hent rejsedokumenter</a>
+            </li>
+        
+            <li>
+                <a href="/dk/my-norwegian/andre-rejse/" target="_top">Ændre rejse</a>
+            </li>
+        
+            <li>
+                <a href="/dk/my-norwegian/er-flyet-i-rute/" target="_top">Er flyet i rute</a>
+            </li>
+        
+            <li>
+                <a href="/dk/my-norwegian/norwegian-reward/">Norwegian Reward</a>
+            </li>
+        
+            <li>
+                <a href="/dk/my-norwegian/andre-grupperejse/" target="_top">Grupperejse</a>
+            </li>
+        
+            </ul> </div>
+        
+</div>
+
+                    <div class="webpart single vertical">
+	<a id="ctl00_MainBottomContentRegion_ctl00_ctl00_ctl01_ctl00_lnkClickable" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;Banner Internal - Front Page&#39;, &#39;R4BL - CPH - PRG- 201015&#39;, &#39;\x2fdk\x2ffly\x2flavpris\x2f\x3fD_City\x3dCPH\x26A_City\x3dPRG\x26D_Day\x3d01\x26D_Month\x3d201511\x26R_Day\x3d01\x26R_Month\x3d201511\x26IncludeTransit\x3dfalse\x26AgreementCodeFK\x3d-1\x26CurrencyCode\x3dDKK&#39;]);" href="/dk/fly/lavpris/?D_City=CPH&amp;A_City=PRG&amp;D_Day=01&amp;D_Month=201511&amp;R_Day=01&amp;R_Month=201511&amp;IncludeTransit=false&amp;AgreementCodeFK=-1&amp;CurrencyCode=DKK"><img src="/globalassets/global/denmark/forside/2015/10oktober/week43/900x200-w43-czech1.jpg" id="ctl00_MainBottomContentRegion_ctl00_ctl00_ctl01_ctl00_img" alt="CPH - PRG" /></a>
+</div>
+                </td>
+                <td class="layoutcellcenter" width="500">
+                    <div class="webpart first vertical">
+	
+<table width="500" border="0" cellspacing="0" cellpadding="0"><tr><td colspan="12"><span style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000;">Find også billige billetter fra
+<a href="/dk/fly/tips/?D_City=AAL&amp;DestinationGroup=12" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;TravelTipResult - Front Page&#39;, &#39;Textlink&#39;, &#39;From - AAL&#39;]);">Aalborg</a> og 
+<a href="/dk/fly/tips/?D_City=BLL&amp;DestinationGroup=12" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;TravelTipResult - Front Page&#39;, &#39;Textlink&#39;, &#39;From - UME&#39;]);">Billund</a></span></td></tr><tr><td colspan="12" height="5px"></td></tr><tr><td width="120" valign="bottom" style="background-image:url(/globalassets/Global/global/Frontpage/Traveltip/1012_traveltip_storby_120x199.jpg); background-repeat:no-repeat;"><table width="120" height="199" border="0" cellspacing="0" cellpadding="0"><tr><td colspan="4" height="155"><a style="display:block; height:155px; text-indent:-9999px;" href="/dk/fly/tips/?D_City=CPH&amp;DestinationGroup=7" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;TravelTipResult - Front Page&#39;, &#39;DestinationGroup&#39;, &#39;Citybreak&#39;]);"> Storby</a></td></tr><tr><td height="11" colspan="4"></td></tr><tr><td width="8" height="22"></td><td width="82" align="left"><span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#000;"><a href="/dk/fly/tips/?D_City=CPH&amp;DestinationGroup=7" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;TravelTipResult - Front Page&#39;, &#39;DestinationGroup&#39;, &#39;Citybreak&#39;]);"> Storby</a></span></td><td width="22" align="right"><a href="/dk/fly/tips/?D_City=CPH&amp;DestinationGroup=7" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;TravelTipResult - Front Page&#39;, &#39;DestinationGroup&#39;, &#39;Citybreak&#39;]);"><img src="/globalassets/Global/norway/forside/2012/04april/redesign/pil.png" width="22" height="22" border="0" /></a></td><td width="8">&nbsp;</td></tr><tr><td colspan="4" height="11"></td></tr></table></td><td width="6">&nbsp;</td><td width="120" valign="bottom" style="background-image:url(/globalassets/Global/global/Frontpage/Traveltip/1012_traveltip_ski_120x199.jpg); background-repeat:no-repeat;"><table width="120" border="0" cellspacing="0" cellpadding="0"><tr><td height="155px" colspan="4"><a style="display:block; height:155px; text-indent:-9999px;" href="http://www.norwegian.com/dk/destinationer/sneogski/" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;TravelTipResult - Front Page&#39;, &#39;DestinationGroup&#39;, &#39;Snow and ski&#39;]);">Sne & ski</a></td></tr><tr><td height="11px" colspan="4"></td></tr><tr><td width="8"></td><td width="82" align="left"><span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#000;"><a href="http://www.norwegian.com/dk/destinationer/sneogski/" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;TravelTipResult - Front Page&#39;, &#39;DestinationGroup&#39;, &#39;Snow and ski&#39;]);">Ski & Sne</a></span></td><td width="22" align="right"><a href="/dk/destinationer/sneogski/" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;TravelTipResult - Front Page&#39;, &#39;DestinationGroup&#39;, &#39;Snow and ski&#39;]);"><img src="/globalassets/Global/norway/forside/2012/04april/redesign/pil.png" width="22" height="22" border="0" /></a></td><td width="8">&nbsp;</td></tr><tr><td colspan="4" height="11px"></td></tr></table></td><td width="7">&nbsp;</td><td width="120" height="199" valign="bottom" style="background-image:url(/globalassets/Global/global/Frontpage/Traveltip/1012_traveltip_Sologbad_120x199.jpg); background-repeat:no-repeat;"><table width="120" border="0" cellspacing="0" cellpadding="0"><tr><td height="155px" colspan="4"><a style="display:block; height:155px; text-indent:-9999px;" href="/dk/fly/tips/?D_City=CPH&amp;DestinationGroup=8" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;TravelTipResult - Front Page&#39;, &#39;DestinationGroup&#39;, &#39;Sun and sea&#39;]);">Sol & Bad</a></td></tr><tr><td height="11px" colspan="4"></td></tr><tr><td width="8"></td><td width="82" align="left"><span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#000;"><a href="/dk/fly/tips/?D_City=CPH&amp;DestinationGroup=8" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;TravelTipResult - Front Page&#39;, &#39;DestinationGroup&#39;, &#39;Sun and sea&#39;]);">Sol & Strand</a></span></td><td width="22" align="right"><a href="/dk/fly/tips/?D_City=CPH&amp;DestinationGroup=8" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;TravelTipResult - Front Page&#39;, &#39;DestinationGroup&#39;, &#39;Sun and sea&#39;]);"><img src="/globalassets/Global/norway/forside/2012/04april/redesign/pil.png" width="22" height="22" border="0" /></a></td><td width="8">&nbsp;</td></tr><tr><td colspan="4" height="11px"></td></tr></table></td><td width="7"></td><td width="120" valign="bottom" style="background-image:url(/globalassets/Global/global/Frontpage/Traveltip/1012_traveltip_danmark_120x199.jpg); background-repeat:no-repeat;"><table width="120" border="0" cellspacing="0" cellpadding="0"><tr><td height="155px" colspan="4"><a style="display:block; height:155px; text-indent:-9999px;" href="/dk/fly/tips/?D_City=CPH&amp;DestinationGroup=29" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;TravelTipResult - Front Page&#39;, &#39;DestinationGroup&#39;, &#39;Denmark&#39;]);">Danmark</a></td></tr><tr><td height="11px" colspan="4"></td></tr><tr><td width="8"></td><td width="82" align="left"><span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#000;"><a href="/dk/fly/tips/?D_City=CPH&amp;DestinationGroup=29" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;TravelTipResult - Front Page&#39;, &#39;DestinationGroup&#39;, &#39;Denmark&#39;]);">Danmark</a></span></td><td width="22" align="right"><a href="/dk/fly/tips/?D_City=CPH&amp;DestinationGroup=29" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;TravelTipResult - Front Page&#39;, &#39;DestinationGroup&#39;, &#39;Danmark&#39;]);"><img src="/globalassets/Global/norway/forside/2012/04april/redesign/pil.png" width="22" height="22" border="0" /></a></td><td width="8">&nbsp;</td></tr><tr><td colspan="4" height="11px"></td></tr></table></td></tr><tr><td height="29" colspan="12" align="right"><table width="120" border="0" cellspacing="0" cellpadding="0"><tr><td height="5px" colspan="6"></td></tr><tr><td width="40"></td><td width="22"><a href="http://www.facebook.com/NorwegianDanmark" target="_blank"><img src="/globalassets/Global/norway/forside/2012/04april/redesign/facebook.png" width="23" height="24" border="0" /></a></td><td width="6"></td><td width="22"><a href="http://twitter.com/#!/Fly_Norwegian" target="_blank"><img src="/globalassets/Global/norway/forside/2012/04april/redesign/twitter.png" width="23" height="24" border="0" /></a></td><td width="4" style="font-family:Arial, Helvetica, sans-serif; font-size:14px;">&nbsp;</td><td width="23"><a href="http://www.youtube.com/user/norwegian" target="_blank"><img src="/globalassets/Global/norway/forside/2012/04april/redesign/youtube.png" width="23" height="24" border="0" /></a></td></tr></table></td></tr></table>
+</div><div class="webpart last vertical">
+	<a id="ctl00_MainBottomContentRegion_ctl01_ctl00_ctl02_ctl00_lnkClickable" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;Banner Internal - Front Page&#39;, &#39;R4BM - CPH - PRG- 201015&#39;, &#39;\x2fdk\x2ffly\x2flavpris\x2f\x3fD_City\x3dCPH\x26A_City\x3dPRG\x26D_Day\x3d01\x26D_Month\x3d201511\x26R_Day\x3d01\x26R_Month\x3d201511\x26IncludeTransit\x3dfalse\x26AgreementCodeFK\x3d-1\x26CurrencyCode\x3dDKK&#39;]);" href="/dk/fly/lavpris/?D_City=CPH&amp;A_City=PRG&amp;D_Day=01&amp;D_Month=201511&amp;R_Day=01&amp;R_Month=201511&amp;IncludeTransit=false&amp;AgreementCodeFK=-1&amp;CurrencyCode=DKK"><img src="/globalassets/global/denmark/forside/2015/10oktober/week43/900x200-w43-czech-2.jpg" id="ctl00_MainBottomContentRegion_ctl01_ctl00_ctl02_ctl00_img" alt="CPH - PRG" /></a>
+</div>
+                </td>
+                <td class="layoutcellright" width="220">
+                    <div class="webpart first vertical">
+	<a id="ctl00_MainBottomContentRegion_ctl02_ctl00_ctl01_ctl00_lnkClickable" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;Banner Internal - Front Page&#39;, &#39;R2 - ungdom- 280415&#39;, &#39;\x2fungdomsbillet\x2f&#39;]);" href="/ungdomsbillet/"><img src="/globalassets/global/denmark/forside/2015/04april/week17/dk_r1_ungdombillett-220415.gif" id="ctl00_MainBottomContentRegion_ctl02_ctl00_ctl01_ctl00_img" alt="ungdom" width="220" height="119" /></a>
+</div><div class="webpart sibling vertical">
+	<a id="ctl00_MainBottomContentRegion_ctl02_ctl00_ctl02_ctl00_lnkClickable" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;Banner Internal - Front Page&#39;, &#39;R3 - claim cp - 230615&#39;, &#39;\x2fssl\x2fdk\x2fkundeservice\x2fmin-norwegian\x2fclaim-cashpoints\x2f&#39;]);" href="/ssl/dk/kundeservice/min-norwegian/claim-cashpoints/"><img src="/globalassets/global/denmark/forside/2015/06juni/week26/220x119-dk-claim-cp.png" id="ctl00_MainBottomContentRegion_ctl02_ctl00_ctl02_ctl00_img" alt="claim cp" width="220" height="119" /></a>
+</div><div class="webpart last vertical">
+	<a id="ctl00_MainBottomContentRegion_ctl02_ctl00_ctl03_ctl00_lnkClickable" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;Banner Internal - Front Page&#39;, &#39;R4BR - CPH - PRG - 201015&#39;, &#39;\x2fdk\x2ffly\x2flavpris\x2f\x3fD_City\x3dCPH\x26A_City\x3dPRG\x26D_Day\x3d01\x26D_Month\x3d201511\x26R_Day\x3d01\x26R_Month\x3d201511\x26IncludeTransit\x3dfalse\x26AgreementCodeFK\x3d-1\x26CurrencyCode\x3dDKK&#39;]);" href="/dk/fly/lavpris/?D_City=CPH&amp;A_City=PRG&amp;D_Day=01&amp;D_Month=201511&amp;R_Day=01&amp;R_Month=201511&amp;IncludeTransit=false&amp;AgreementCodeFK=-1&amp;CurrencyCode=DKK"><img src="/globalassets/global/denmark/forside/2015/10oktober/week43/900x200-w43-czech-3.jpg" id="ctl00_MainBottomContentRegion_ctl02_ctl00_ctl03_ctl00_img" alt="CPH - PRG" /></a>
+</div>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+                            </div>
+                        </div>
+                        
+                            <div class="pagefootercontainer">
+                                <div class="pagefooterbox">
+                                    <div class="footer">
+                                        <p>© 2015&nbsp;Norwegian Air Shuttle ASA - <a href="http://norwegian-dk.custhelp.com/app/answers/detail/a_id/82/">Kontakt os</a>&nbsp;- <a title="Privacy statement " href="/dk/kundeservice/rejseinformation/regler-og-vilkar/privacy-statement/" target="_blank">Privacy statement<br /></a>Bemærk, at dette er en norsk hjemmeside. De norske bestemmelser for afgifter er derfor gældende</p>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var infantOptions = new Array();
+initInfantCountDependent(infantOptions, 'spædbørn', 'spædbørn');
+var childOptions = new Array();
+initChildCountDependent(childOptions, 'børn (2-11)', 'børn (2-11)');
+$(document).ready(function(){
+$('#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnAdultCount').change(function() {
+setDynamicOptions($('#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnInfantCount'), infantOptions, $('#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnAdultCount')[0].value, '');
+setDynamicOptions($('#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnChildCount'), childOptions, $('#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnAdultCount')[0].value, '');
+});
+setDynamicOptions($('#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnInfantCount'), infantOptions, $('#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnAdultCount')[0].value, '');
+setDynamicOptions($('#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnChildCount'), childOptions, $('#ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_ddnAdultCount')[0].value, '');
+});
+$(document).ready(function(){toggleTripType('ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_TripType', 'ctl00_MainContentRegion_LeftColumnRegion_ctl00_ctl00_ctl01_ctl00_ipcAvaSearchBox_PanelArrival');});//]]>
+</script>
+</form>
+    
+        
+<!-- Adform Tracking Code BEGIN -->
+<script type="text/javascript" src="https://track.adform.net/serving/scripts/trackpoint/"></script><script type="text/javascript">
+//<![CDATA[
+if(typeof(Adform) != 'undefined' && typeof(Adform.Tracking) != 'undefined' && typeof(adf) != 'undefined'){
+Adform.Tracking.Params.PageName = encodeURIComponent('da|Home|Homepage');
+Adform.Tracking.Params.Divider = encodeURIComponent('|');
+Adform.Tracking.Track(41128);}
+//]]>
+</script>
+<noscript>
+<p style="margin:0;padding:0;border:0;"><img src="https://track.adform.net/serving/scripts/trackpoint/?pm=41128&amp;ADFPageName=da|Home|Homepage&amp;ADFdivider=|" width="1" height="1" alt="" /></p>
+</noscript>
+<!-- Adform Tracking Code END -->
+
+
+    
+    
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="da" data-ng-app="nas" data-ng-strict-di>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" >
+
+    
+        
+        <meta data-server="NAS-PORTALB09" 
+data-language-branch="da" 
+data-host="www.norwegian.com"
+data-path="/dk/" 
+data-time="11:02:24.786" 
+data-current-ui-culture="da-DK" 
+data-current-culture="da-DK" 
+data-build-number="34.5.0.254" 
+data-created-at="21-12-2015 17:32:59"  
+data-cache-version="323160" /> 
+
+        <title>Flyrejser | Hoteller | Billeje | 100+ destinationer | Norwegian</title>
+            <meta name="description" content="Billige flybilletter, hoteller og billeje. Find din rejse til over 100 destinationer i hele verden med vores lavpriskalender, og book nu." />
+                 
+        
+        <meta name="ROBOTS" CONTENT="all" />
+    
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link href="/Content/Styles/cms-brand.css?v=sAcqUfBAMsgwHdIvLXP7aLBb8VAHz8S_yNoFSmSYS401" rel="stylesheet"/>
+
+
+    <link rel="shortcut icon" type="image/png" href="/Content/img/favicon.png" />
+
+<script src="/ClientResources/angular-libs.js?v=3k7ET5GAIM_0cKBuCCO37goizMICu0MNJiJJPXpO-NY1"></script>
+
+    <script src="/Scripts/instant.js?v=31ttM4QIeFGrBwtPrzSNL2xVwAZGWddl44RC7WtpKRg1"></script>
+
+    <script src="/Scripts/lang.da.js?v=ctvelHTpPvP28lycv4sVbo_3EcsfAVEKNF_sjoU76a81"></script>
+
+    <script src="/js/siteMap?culture=da-DK&version=1&isresponsive=True&v=97f4f62a-50aa-472b-9288-11a9a7f749c1"></script>
+    <script src="/Scripts/cmstemplates.js?v=2Ocqo-1UqQ5KCFCBgH6ZUBwYlg9byLvXcfIBJITrplU1"></script>
+
+<script src="/Scripts/angular-locale_da.js?v=yWGEWD8iUCcZ82PPtWk0BzJ-z4wo1lxXl_cdh3z30ho1"></script>
+    
+<script type="text/javascript">
+//<![CDATA[
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-9004708-1']);
+//]]>
+</script>
+<script type="text/javascript" src="/Scripts/Tracking/ga-se-async.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+_gaq.push(['_setDomainName', '.norwegian.com']);
+_gaq.push(['_setAllowAnchor', true]);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageLoadTime']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+//]]>
+</script>
+
+</head>
+
+<body class="ng-cloak nasbody" data-ng-controller="PageCtrl" data-nas-api-request-verification-token="gOc5VXbH-EslbGoGIbuvH0uBopmEekJvj1pQykMJ_vngCZEh8MrsMWUQJXAtorHLXFdmIu7CCPo535O8vsRev2XVoP83uBedh6g0DAsfeGIiY0GCGFTR_91dMxO2wd6ngjFVvA2:L2d40fzuK58eJJ12BQzcvaAF-S8wLkLvCxTUdoP6fGHx7tWZLX6zMCEMwYi0D0qibw1iu79NuQtzcc1onpF0iUXJOkOH2s0Whjs8q0KzyacBHoyWhhpqNeP-OEKXfLkQtFnVww2" aria-busy='{{isBusy}}' data-ng-class="{'block-scrolling': isBusy}">
+    <main>
+            <img src="/Content/Styles/sprites/sprite.css.svg" style="display: none;" alt="" />
+        <div data-nas-progress-spinner></div>
+        <noscript>
+            <div class="box">Denne side kr&#230;ver, at Javascript er aktiveret i din browser.</div>
+        </noscript>
+        
+
+
+
+
+
+
+<header id="responsivePageHeader" class="page-header" >
+    
+   
+    <div class="page-header__content">
+        <a onclick="return NasPlainMenuController.toggleMenu()" class="page-header__menu-link" href="">
+            <div class="page-header__menu-link__icon">
+                <i id="menuIconHamburger" class="icon-hamburger">
+                    <span class="icon-hamburger__bar  icon-hamburger__bar--first"></span>
+                    <span class="icon-hamburger__bar"></span>
+                    <span class="icon-hamburger__bar  icon-hamburger__bar--last"></span>
+                </i>
+            </div>
+            Menu
+        </a>
+        
+        <div class="pull-right">
+
+            <!-- Sign in/up -->
+                <div class="page-header__profile pull-left">
+                        <a class="page-header__profile__trigger" href="/ssl/dk/mine-rejser/#/mytravels">Log p&#229;</a>
+                </div>
+
+            <!-- Branding -->
+            <a href="/dk/"
+               class="page-header__branding"
+               title="Hjem">
+                    <img src="/Content/img/ident.svg" class="page-header__logo  page-header__logo--md" alt="Logo: Norwegian Airlines" />
+                                    <img src="/Content/img/ident-mobile.svg" class="page-header__logo" alt="Logo small: Norwegian Airlines" />
+            </a>
+        </div>
+
+        <!-- Search -->
+            <div class="page-header__search">
+                <a href="" onclick="return NasPlainMenuController.showSearch()" class="page-header__search__trigger">S&#248;g</a>
+                <div class="page-header_search__content ng-scope" style="display: none">
+                    <form class="ng-pristine ng-valid" action="/dk/sitesearch/" method="post">
+                        <input id="q" name="q" class="page-header__search__input" type="text" placeholder="S&#248;g">
+                        <input id="page" type="hidden" value="1" name="page">
+                        <button class="input__action" type="submit">
+                            <i class="icon-small icon-small--search"></i>
+                        </button>
+                    </form>
+    </div>
+            </div>
+
+    </div>
+
+    <!-- The menu -->
+    <nav id="pageHeaderMenu" class="page-header__menu">
+        <div class="grid">
+            <section class="col-6--md">
+                <ul class="is-hidden--md">
+                        <li>
+                            <a id="loginLink" class="page-header__link" href="/ssl/dk/mine-rejser/#/mytravels">
+                                Log p&#229;
+                            </a>
+                        </li>
+                </ul>
+                <ul class="is-visible--md">
+                    
+    <li>
+        <a href="/dk/" class="page-header__link">Hjem</a>
+    </li>
+    <li>
+        <a href="/dk/booking/" class="page-header__link">Booking</a>
+    </li>
+    <li>
+        <a href="/dk/destinationer/" class="page-header__link">Destinationer</a>
+    </li>
+    <li>
+        <a href="/dk/flystatus/" class="page-header__link">Er flyet til tiden?</a>
+    </li>
+    <li>
+        <a href="/ssl/dk/mine-rejser/" class="page-header__link">Mine rejser</a>
+    </li>
+    <li>
+        <a href="/dk/corporate-portal/" class="page-header__link">Erhverv</a>
+    </li>
+    <li>
+        <a href="/dk/norwegian-reward/" class="page-header__link">Norwegian Reward</a>
+    </li>
+    <li>
+        <a href="/dk/hjaelp-og-kontakt/" class="page-header__link">Hj&#230;lp og kontakt</a>
+    </li>
+
+
+                </ul>
+                <ul class="is-hidden--md">
+                    
+    <li>
+        <a href="/dk/" class="page-header__link">Hjem</a>
+    </li>
+    <li>
+        <a href="/dk/booking/" class="page-header__link">Booking</a>
+    </li>
+    <li>
+        <a href="/dk/destinationer/" class="page-header__link">Destinationer</a>
+    </li>
+    <li>
+        <a href="/dk/rejseinformation/" class="page-header__link">N&#229;r du rejser med os</a>
+    </li>
+    <li>
+        <a href="/dk/flystatus/" class="page-header__link">Er flyet til tiden?</a>
+    </li>
+    <li>
+        <a href="/ssl/dk/mine-rejser/" class="page-header__link">Mine rejser</a>
+    </li>
+    <li>
+        <a href="/dk/corporate-portal/" class="page-header__link">Erhverv</a>
+    </li>
+    <li>
+        <a href="/dk/norwegian-reward/" class="page-header__link">Norwegian Reward</a>
+    </li>
+    <li>
+        <a href="/dk/om-os/" class="page-header__link">Om os</a>
+    </li>
+    <li>
+        <a href="/dk/hjaelp-og-kontakt/" class="page-header__link">Hj&#230;lp og kontakt</a>
+    </li>
+
+
+                </ul>
+            </section>
+            <section class="col-6--md is-visible--md">
+                    <h2><a href="/dk/rejseinformation/" class="page-header__link">N&#229;r du rejser med os</a></h2>
+                <ul class="list  list--image-list  list--image-list--menu">
+                    
+    <li>
+<i role="presentation" class="icon-medium icon-medium--baggage-checked-in"></i>            <h4>
+                <a href="/dk/rejseinformation/bagage/" class="page-header__link  page-header__link--small">Bagage</a>
+            </h4>
+
+<p><span style="background-color: #d81939;"><span style="color: #ffffff; font-family: ApercuProRegular, Helvetica, sans-serif;">Hvor megen bagage, du kan have med, beskyttelse af din bagage til rejsen, og hvad du ikke skal pakke.</span></span></p>    </li>
+    <li>
+<i role="presentation" class="icon-medium icon-medium--fast-track"></i>            <h4>
+                <a href="/dk/rejseinformation/indcheckning-og-boarding/" class="page-header__link  page-header__link--small">Indcheckning og boarding</a>
+            </h4>
+
+<p><span style="background-color: #d81939;"><span style="color: #ffffff; font-family: ApercuProRegular, Helvetica, sans-serif;">Hvornår, hvor og hvordan du checker ind, uanset om du er på nettet, i lufthavnen eller går direkte til din gate.</span></span></p>    </li>
+    <li>
+<i role="presentation" class="icon-medium icon-medium--special-needs"></i>            <h4>
+                <a href="/dk/rejseinformation/specielle-behov/" class="page-header__link  page-header__link--small">S&#230;rlige behov</a>
+            </h4>
+
+<p><span style="background-color: #d81939;"><span style="color: #ffffff; font-family: ApercuProRegular, Helvetica, sans-serif;">Find ud af, hvordan du beder om assistance, hvis du har nedsat førlighed eller et handicap.</span></span></p>    </li>
+
+                    
+    <li>
+        <h5>
+            <a href="/dk/rejseinformation/" class="page-header__link  page-header__link--small">Se alle rejseoplysninger</a>
+        </h5>
+    </li>
+
+
+
+                </ul>
+            </section>
+        </div>
+    </nav>
+</header>
+    <div data-nas-error-message></div>
+    <div data-ui-view="header"></div>
+
+
+    
+
+
+
+
+
+
+<header class="daysearch-cover">
+    <div class="daysearch-cover__content">
+            <figure class="daysearch-cover__image">
+                <img src="/globalassets/ip/media/front/front-header.jpg" alt="Open skies">
+            </figure>
+
+        <div class="tab-box tab-box--booking" data-ng-controller="SearchBoxBlockCtrl">
+            <nav class="tab-box__tabs" role="tablist">
+                        <button class="tab-box__tabs__button tab-box__tabs__button__1"
+                                data-ng-class="{'tab-box__tabs__button--active': tab == 1}"
+                                data-ng-click="setTab(1)"
+                                role="tab"
+                                aria-selected="{{tab == 1}}">
+                            <i class="icon-small  icon-small--flight-tickets" data-ng-if="tab == 1"></i>
+                            <i class="icon-small  icon-small--flight-tickets--light" data-ng-if="tab != 1"></i>
+                            Fly
+                        </button>
+                        <button class="tab-box__tabs__button is-visible--lg"
+                                data-ng-class="{'tab-box__tabs__button--active': tab == 2}"
+                                data-ng-click="setTab(2)"
+                                role="tab"
+                                aria-selected="{{tab == 2}}">
+                            <i class="icon-small  icon-small--hotel" data-ng-if="tab == 2"></i>
+                            <i class="icon-small  icon-small--hotel--light" data-ng-if="tab != 2"></i>
+                            Fly + hotel
+                        </button>
+                        <button class="tab-box__tabs__button is-visible--lg"
+                                data-ng-class="{'tab-box__tabs__button--active': tab == 3}"
+                                data-ng-click="setTab(3)"
+                                role="tab"
+                                aria-selected="{{tab == 3}}">
+                            <i class="icon-small  icon-small--car-rental" data-ng-if="tab == 3"></i>
+                            <i class="icon-small  icon-small--car-rental--light" data-ng-if="tab != 3"></i>
+                            Billeje
+                        </button>
+                        <button class="tab-box__tabs__button is-visible--lg"
+                                data-ng-class="{'tab-box__tabs__button--active': tab == 4}"
+                                data-ng-click="setTab(4)"
+                                role="tab"
+                                aria-selected="{{tab == 4}}">
+                            <i class="icon-small  icon-small--accommodation" data-ng-if="tab == 4"></i>
+                            <i class="icon-small  icon-small--accommodation--light" data-ng-if="tab != 4"></i>
+                            Hotel
+                        </button>
+                        <button class="tab-box__tabs__button is-visible--lg"
+                                data-ng-class="{'tab-box__tabs__button--active': tab == 5}"
+                                data-ng-click="setTab(5)"
+                                role="tab"
+                                aria-selected="{{tab == 5}}">
+                            <i class="icon-small  icon-small--rewards" data-ng-if="tab == 5"></i>
+                            <i class="icon-small  icon-small--rewards--light" data-ng-if="tab != 5"></i>
+                            Reward
+                        </button>
+
+            </nav>
+                            <section class="tab-box__page" data-ng-if="tab == 1" data-ng-cloak="">
+                                <div data-nas-availability-search data-model="{&quot;adultMinCount&quot;:1,&quot;adultMaxCount&quot;:10,&quot;childMinCount&quot;:0,&quot;childMaxCount&quot;:8,&quot;currencyCodeList&quot;:[&quot;DKK&quot;],&quot;mode&quot;:&quot;Start&quot;,&quot;request&quot;:{&quot;adultCount&quot;:1,&quot;childCount&quot;:0,&quot;infantCount&quot;:0,&quot;includeTransit&quot;:true,&quot;outboundDate&quot;:&quot;2015-12-22T00:00:00+01:00&quot;,&quot;inboundDate&quot;:&quot;2015-12-22T00:00:00+01:00&quot;,&quot;origin&quot;:&quot;&quot;,&quot;destination&quot;:&quot;&quot;,&quot;tripType&quot;:&quot;TwoWayReturn&quot;,&quot;resultType&quot;:&quot;AvaDay&quot;,&quot;currencyCode&quot;:&quot;DKK&quot;,&quot;agreementCode&quot;:&quot;&quot;,&quot;agreementCodeFK&quot;:null},&quot;fromSuggestionList&quot;:[&quot;K&#248;benhavn&quot;,&quot;Aalborg&quot;,&quot;Billund&quot;],&quot;toSuggestionList&quot;:[],&quot;fromSloganList&quot;:[&quot;Dit udgangspunkt&quot;],&quot;toSloganList&quot;:[&quot;Hvor vil du gerne hen?&quot;],&quot;lastSeparatorText&quot;:&quot;eller&quot;,&quot;noMatchText&quot;:&quot;Ingen match&quot;,&quot;labelOutboundDate&quot;:&quot;Udg&#229;ende&quot;,&quot;labelInboundDate&quot;:&quot;Retur&quot;,&quot;labelOrigin&quot;:&quot;Fly fra&quot;,&quot;labelDestination&quot;:&quot;Fly til&quot;,&quot;labelOneWay&quot;:&quot;Envejs&quot;,&quot;labelCurrency&quot;:&quot;Valuta&quot;,&quot;labelAddChildren&quot;:&quot;Tilf&#248;j b&#248;rn&quot;,&quot;labelAdults&quot;:&quot;Voksne&quot;,&quot;labelChildren&quot;:&quot;B&#248;rn (2-11)&quot;,&quot;labelInfants&quot;:&quot;Sp&#230;db&#248;rn (0-2)&quot;,&quot;labelDirectOnly&quot;:&quot;Vis kun direkte&quot;,&quot;labelReturnTrip&quot;:&quot;Returrejse&quot;,&quot;labelResultTypeAvaDay&quot;:&quot;Vis valgt dato&quot;,&quot;labelDaySearch&quot;:&quot;Valgt dato&quot;,&quot;labelFareCalSearch&quot;:&quot;Vis lavpriskalender&quot;,&quot;labelSearchButton&quot;:&quot;S&#248;gning&quot;,&quot;labelCampaignCode&quot;:&quot;Kampagnekode&quot;,&quot;pickupLabel&quot;:&quot;Hvor henter jeg bilen?&quot;,&quot;pickupDateTimeLabel&quot;:&quot;Hvorn&#229;r henter jeg passagererne?&quot;,&quot;returnLabel&quot;:&quot;Hvor afleverer jeg bilen?&quot;,&quot;returnDateTimeLabel&quot;:&quot;Hvorn&#229;r afleverer jeg den?&quot;,&quot;pickupAndReturnLabel&quot;:&quot;Returner bilen til et andet sted&quot;,&quot;tryoutPerformanceImprovemnts&quot;:true,&quot;minDate&quot;:&quot;2015-12-21T00:00:00+01:00&quot;,&quot;resultType&quot;:&quot;AvaDay&quot;,&quot;selectDepartureFirstText&quot;:&quot;V&#230;lg afgang f&#248;rst&quot;}" data-banner-name="'Flight ticket - tabHome - DK'" data-search="search"></div>
+                            </section>
+                        <nav class="tab-box__tabs  tab-box__tabs--accordion">
+                            <button class="tab-box__tabs__button tab-box__tabs__button__2"
+                                    data-ng-class="{'tab-box__tabs__button--active': tab == 2}"
+                                    data-ng-click="setTab(2)">
+                                <i class="icon-small  icon-small--hotel" data-ng-if="tab == 2"></i>
+                                <i class="icon-small  icon-small--hotel--light" data-ng-if="tab != 2"></i>
+                                Fly + hotel
+                            </button>
+                        </nav>
+                        <section class="tab-box__page" data-ng-if="tab == 2" data-ng-cloak="">
+                            <div data-nas-holidays-search data-model="{&quot;adultMinCount&quot;:1,&quot;adultMaxCount&quot;:10,&quot;childMinCount&quot;:0,&quot;childMaxCount&quot;:8,&quot;currencyCodeList&quot;:[&quot;DKK&quot;],&quot;mode&quot;:&quot;Start&quot;,&quot;request&quot;:{&quot;adultCount&quot;:1,&quot;childCount&quot;:0,&quot;infantCount&quot;:0,&quot;includeTransit&quot;:true,&quot;outboundDate&quot;:&quot;2015-12-22T00:00:00+01:00&quot;,&quot;inboundDate&quot;:&quot;2015-12-22T00:00:00+01:00&quot;,&quot;origin&quot;:&quot;&quot;,&quot;destination&quot;:&quot;&quot;,&quot;tripType&quot;:&quot;TwoWayReturn&quot;,&quot;resultType&quot;:&quot;AvaDay&quot;,&quot;currencyCode&quot;:&quot;DKK&quot;,&quot;agreementCode&quot;:&quot;&quot;,&quot;agreementCodeFK&quot;:null},&quot;fromSuggestionList&quot;:[&quot;K&#248;benhavn&quot;,&quot;Aalborg&quot;,&quot;Billund&quot;],&quot;toSuggestionList&quot;:[],&quot;fromSloganList&quot;:[&quot;Dit udgangspunkt&quot;],&quot;toSloganList&quot;:[&quot;Hvor vil du gerne hen?&quot;],&quot;lastSeparatorText&quot;:&quot;eller&quot;,&quot;noMatchText&quot;:&quot;Ingen match&quot;,&quot;labelOutboundDate&quot;:&quot;Udg&#229;ende&quot;,&quot;labelInboundDate&quot;:&quot;Retur&quot;,&quot;labelOrigin&quot;:&quot;Fly fra&quot;,&quot;labelDestination&quot;:&quot;Fly til&quot;,&quot;labelOneWay&quot;:&quot;Envejs&quot;,&quot;labelCurrency&quot;:&quot;Valuta&quot;,&quot;labelAddChildren&quot;:&quot;Tilf&#248;j b&#248;rn&quot;,&quot;labelAdults&quot;:&quot;Voksne&quot;,&quot;labelChildren&quot;:&quot;B&#248;rn (2-11)&quot;,&quot;labelInfants&quot;:&quot;Sp&#230;db&#248;rn (0-2)&quot;,&quot;labelDirectOnly&quot;:&quot;Vis kun direkte&quot;,&quot;labelReturnTrip&quot;:&quot;Returrejse&quot;,&quot;labelResultTypeAvaDay&quot;:&quot;Vis valgt dato&quot;,&quot;labelDaySearch&quot;:&quot;Valgt dato&quot;,&quot;labelFareCalSearch&quot;:&quot;Vis lavpriskalender&quot;,&quot;labelSearchButton&quot;:&quot;S&#248;gning&quot;,&quot;labelCampaignCode&quot;:&quot;Kampagnekode&quot;,&quot;pickupLabel&quot;:&quot;Hvor henter jeg bilen?&quot;,&quot;pickupDateTimeLabel&quot;:&quot;Hvorn&#229;r henter jeg passagererne?&quot;,&quot;returnLabel&quot;:&quot;Hvor afleverer jeg bilen?&quot;,&quot;returnDateTimeLabel&quot;:&quot;Hvorn&#229;r afleverer jeg den?&quot;,&quot;pickupAndReturnLabel&quot;:&quot;Returner bilen til et andet sted&quot;,&quot;tryoutPerformanceImprovemnts&quot;:true,&quot;minDate&quot;:&quot;2015-12-21T00:00:00+01:00&quot;,&quot;resultType&quot;:&quot;AvaDay&quot;,&quot;selectDepartureFirstText&quot;:&quot;V&#230;lg afgang f&#248;rst&quot;}" data-banner-name="'Flight + Hotel - tabHome - DK'" data-search="holidaySearch"></div>
+                        </section>
+                        <nav class="tab-box__tabs  tab-box__tabs--accordion">
+                            <button class="tab-box__tabs__button tab-box__tabs__button__3"
+                                    data-ng-class="{'tab-box__tabs__button--active': tab == 3}"
+                                    data-ng-click="setTab(3)">
+                                <i class="icon-small  icon-small--car-rental" data-ng-if="tab == 3"></i>
+                                <i class="icon-small  icon-small--car-rental--light" data-ng-if="tab != 3"></i>
+                                Billeje
+                            </button>
+                        </nav>
+                        <section class="tab-box__page" data-ng-if="tab == 3" data-ng-cloak="">
+                            <div data-nas-cartrawler-search data-model="{&quot;adultMinCount&quot;:1,&quot;adultMaxCount&quot;:10,&quot;childMinCount&quot;:0,&quot;childMaxCount&quot;:8,&quot;currencyCodeList&quot;:[&quot;DKK&quot;],&quot;mode&quot;:&quot;Start&quot;,&quot;request&quot;:{&quot;adultCount&quot;:1,&quot;childCount&quot;:0,&quot;infantCount&quot;:0,&quot;includeTransit&quot;:true,&quot;outboundDate&quot;:&quot;2015-12-22T00:00:00+01:00&quot;,&quot;inboundDate&quot;:&quot;2015-12-22T00:00:00+01:00&quot;,&quot;origin&quot;:&quot;&quot;,&quot;destination&quot;:&quot;&quot;,&quot;tripType&quot;:&quot;TwoWayReturn&quot;,&quot;resultType&quot;:&quot;AvaDay&quot;,&quot;currencyCode&quot;:&quot;DKK&quot;,&quot;agreementCode&quot;:&quot;&quot;,&quot;agreementCodeFK&quot;:null},&quot;fromSuggestionList&quot;:[],&quot;toSuggestionList&quot;:[],&quot;fromSloganList&quot;:[],&quot;toSloganList&quot;:[],&quot;lastSeparatorText&quot;:&quot;eller&quot;,&quot;noMatchText&quot;:&quot;Ingen match&quot;,&quot;labelOutboundDate&quot;:&quot;Udg&#229;ende&quot;,&quot;labelInboundDate&quot;:&quot;Retur&quot;,&quot;labelOrigin&quot;:&quot;Fly fra&quot;,&quot;labelDestination&quot;:&quot;Fly til&quot;,&quot;labelOneWay&quot;:&quot;Envejs&quot;,&quot;labelCurrency&quot;:&quot;Valuta&quot;,&quot;labelAddChildren&quot;:&quot;Tilf&#248;j b&#248;rn&quot;,&quot;labelAdults&quot;:&quot;Voksne&quot;,&quot;labelChildren&quot;:&quot;B&#248;rn (2-11)&quot;,&quot;labelInfants&quot;:&quot;Sp&#230;db&#248;rn (0-2)&quot;,&quot;labelDirectOnly&quot;:&quot;Vis kun direkte&quot;,&quot;labelReturnTrip&quot;:&quot;Returrejse&quot;,&quot;labelResultTypeAvaDay&quot;:&quot;Vis valgt dato&quot;,&quot;labelDaySearch&quot;:&quot;Valgt dato&quot;,&quot;labelFareCalSearch&quot;:&quot;Vis lavpriskalender&quot;,&quot;labelSearchButton&quot;:&quot;S&#248;gning&quot;,&quot;labelCampaignCode&quot;:&quot;Kampagnekode&quot;,&quot;pickupLabel&quot;:&quot;Hvor henter jeg bilen?&quot;,&quot;pickupDateTimeLabel&quot;:&quot;Hvorn&#229;r henter jeg passagererne?&quot;,&quot;returnLabel&quot;:&quot;Hvor afleverer jeg bilen?&quot;,&quot;returnDateTimeLabel&quot;:&quot;Hvorn&#229;r afleverer jeg den?&quot;,&quot;pickupAndReturnLabel&quot;:&quot;Returner bilen til et andet sted&quot;,&quot;tryoutPerformanceImprovemnts&quot;:true,&quot;minDate&quot;:&quot;2015-12-21T00:00:00+01:00&quot;,&quot;resultType&quot;:&quot;AvaDay&quot;,&quot;selectDepartureFirstText&quot;:&quot;V&#230;lg afgang f&#248;rst&quot;}" data-banner-name="'Car rentals - tabHome - DK'" data-search="carSearch"></div>
+                        </section>
+                        <nav class="tab-box__tabs  tab-box__tabs--accordion">
+                            <button class="tab-box__tabs__button tab-box__tabs__button__4"
+                                    data-ng-class="{'tab-box__tabs__button--active': tab == 4}"
+                                    data-ng-click="setTab(4)">
+                                <i class="icon-small  icon-small--accommodation" data-ng-if="tab == 4"></i>
+                                <i class="icon-small  icon-small--accommodation--light" data-ng-if="tab != 4"></i>
+                                Hotel
+                            </button>
+                        </nav>
+                        <section class="tab-box__page" data-ng-if="tab == 4" data-ng-cloak="">
+
+                            <h5>Find de bedste hoteltilbud</h5>
+<p class="normal">Book overnatning gennem vores partner booking.com. Søg efter gode hoteltilbud på over 680.000 hoteller i hele verden.</p>
+<p><a class="button button--large button--primary" href="http://www.booking.com/?aid=342372;label=nwgn-pre-home-tab-rl-da" target="_blank">Find et hotel og book</a></p>
+                        </section>
+                        <nav class="tab-box__tabs  tab-box__tabs--accordion">
+                            <button class="tab-box__tabs__button tab-box__tabs__button__5"
+                                    data-ng-class="{'tab-box__tabs__button--active': tab == 5}"
+                                    data-ng-click="setTab(5)">
+                                <i class="icon-small  icon-small--rewards" data-ng-if="tab == 5"></i>
+                                <i class="icon-small  icon-small--rewards--light" data-ng-if="tab != 5"></i>
+                                Reward
+                            </button>
+                        </nav>
+                        <section class="tab-box__page" data-ng-if="tab == 5" data-ng-cloak="">
+
+                            <h5>Det betaler sig at flyve med Norwegian!</h5>
+<p class="normal">Hver gang du booker en flyrejse hos os eller køber noget fra vores Reward-partnere, optjener du CashPoints, som du kan bruge ved fremtidige flybilletter. <a href="/ssl/dk/mine-rejser/#/mytravels/lookup">Log ind</a> for at sikre, at du får dine CashPoints og rewards.</p>
+<p><a href="/ssl/dk/mine-rejser/#/profile/create">Tilmeld</a> dig, eller få <a href="/dk/norwegian-reward/">mere at vide</a>.</p>
+                        </section>
+
+
+        </div>
+    </div>
+</header>
+
+
+    <section class="page-section">
+        
+
+<section  class="page-section">
+    <div class="grid">
+        <h2>Gode tilbud fra København (CPH)</h2>
+<div>Find dit bedste tilbud direkte fra København (CPH). Fra/enkeltrejse inkl. skatter.&nbsp;<a onclick="gaEventLink(this,'Banner Internal - Homepage', 'header','from-CPH'); return false;" href="/dk/destinationer/?d_city=CPH">Vis alle destinationer</a></div>
+    </div>
+</section><div class="campaign">
+    <section class="campaign__section">
+        <a href="/dk/destinations/?D_City=CPH&amp;DestinationGroup=12&amp;SplitDatesInto=3&amp;D_Day_End=31&amp;D_Month_End=201601&amp;CurrencyCode=DKK&amp;IncludeTransit=False" class="ad ad--medium ad--large ad--topleft" onclick="_gaq.push(['_trackEvent', 'Banner Internal', 'S1 - christmasspirit DK - 221215', '\x2fdk\x2fdestinations\x2f\x3fD_City\x3dCPH\x26DestinationGroup\x3d12\x26SplitDatesInto\x3d3\x26D_Day_End\x3d31\x26D_Month_End\x3d201601\x26CurrencyCode\x3dDKK\x26IncludeTransit\x3dFalse']);">
+            <div class="ad__content">
+                <h2 class="xl-typo">
+                    Julehumør.
+                        <br>
+                        <span class="on_sale  on_sale--large">Til salg.</span>
+                </h2>
+                <p class="preamble"></p>
+            </div>
+                <img src="/globalassets/ip/media/front/on-sale/s1-600x600-christmas-spirit.jpg" alt="" class="ad__image">
+        </a>
+    </section>
+        <section class="campaign__section">
+                <div class="col-6--md">
+                    
+
+
+<a href="/dk/booking/fly/lavpris/?D_City=BLL&amp;A_City=BCN&amp;D_Day=16&amp;D_Month=201601&amp;R_SelectedDay=&amp;R_Day=&amp;R_Month=&amp;CurrencyCode=DKK" class="ad   ad--primary" onclick="_gaq.push(['_trackEvent', 'Banner Internal', 'S1-2 - BLL - BCN - DK - 221215']);">
+    <div class="ad__content">
+
+            <h4>Barcelona</h4>
+
+            <p>Direkte fra Billund<br />Fra/enkeltbilet</p>
+                    <hr>
+                <strong class="ad__price">
+199,-
+                </strong>
+    </div>
+</a>
+
+                </div>
+                <div class="col-6--md">
+                    
+
+
+<a href="/dk/booking/fly/lavpris/?D_City=CPH&amp;A_City=CHQ&amp;D_Day=06&amp;D_Month=201602&amp;R_SelectedDay=&amp;R_Day=&amp;R_Month=&amp;CurrencyCode=DKK" class="ad   ad--primary" onclick="_gaq.push(['_trackEvent', 'Banner Internal', 'S1-3 - CPH - CHQ - 221215']);">
+    <div class="ad__content">
+
+            <h4>Kreta-Chania</h4>
+
+            <p>Direkte fra København<br />Fra/enkeltbilet</p>
+                    <hr>
+                <strong class="ad__price">
+399,-
+                </strong>
+    </div>
+</a>
+
+                </div>
+                <div class="col-6--md">
+                    
+
+
+<a href="/dk/booking/fly/lavpris/?D_City=CPH&amp;A_City=LIS&amp;D_Day=19&amp;D_Month=201602&amp;R_SelectedDay=&amp;R_Day=&amp;R_Month=&amp;CurrencyCode=DKK" class="ad   ad--primary" onclick="_gaq.push(['_trackEvent', 'Banner Internal', 'S1-5 - CPH - LIS - 221215']);">
+    <div class="ad__content">
+
+            <h4>Lissabon</h4>
+
+            <p>Direkte fra København<br />Fra/enkeltbilet</p>
+                    <hr>
+                <strong class="ad__price">
+399,-
+                </strong>
+    </div>
+</a>
+
+                </div>
+                <div class="col-6--md">
+                    
+
+
+<a href="/dk/booking/fly/lavpris/?D_City=CPH&amp;A_City=BKK&amp;D_Day=30&amp;D_Month=201604&amp;R_SelectedDay=&amp;R_Day=&amp;R_Month=&amp;CurrencyCode=DKK" class="ad   ad--primary" onclick="_gaq.push(['_trackEvent', 'Banner Internal', 'S1-5 - CPH-BKK - 221215']);">
+    <div class="ad__content">
+
+            <h4>Bangkok</h4>
+
+            <p>Direkte fra København<br />Fra/enkeltbilet</p>
+                    <hr>
+                <strong class="ad__price">
+1099,-
+                </strong>
+    </div>
+</a>
+
+                </div>
+        </section>
+</div>
+
+
+
+
+<div class="campaign">
+        <section class="col-3--md">
+            
+
+
+<a href="http://www.norwegianholidays.com/travel/landing_page_hotels.cfm?AREA2=LGW&amp;nav=DKearn" class="ad   ad--primary" onclick="_gaq.push(['_trackEvent', 'Banner Internal', 'S2 Ancillary Adprice - DK - LGW - 161215']);">
+    <div class="ad__content">
+
+                <h4>London - Fly + hotel</h4>
+
+            <p>Pr. uge/person</p>
+                    <hr>
+                <strong class="ad__price">
+Fra 2999,-
+                </strong>
+    </div>
+</a>
+
+        </section>
+    <section class="col-9--md">
+        <a href="http://www.norwegianholidays.com/travel/landing_page_hotels.cfm?AREA2=LGW&amp;nav=DKearn" class="ad ad--centered ad--image ad--shade" onclick="_gaq.push(['_trackEvent', 'Banner Internal', 'S2 - Ancillary DK - LGW - 161215', 'http\x3a\x2f\x2fwww.norwegianholidays.com\x2ftravel\x2flanding_page_hotels.cfm\x3fAREA2\x3dLGW\x26nav\x3dDKearn']);_gaq.push(['_link', 'http\x3a\x2f\x2fwww.norwegianholidays.com\x2ftravel\x2flanding_page_hotels.cfm\x3fAREA2\x3dLGW\x26nav\x3dDKearn']); return false;">
+            <div class="ad__content">
+                    <h4>Supertilbud flybillet og hotelophold i LONDON</h4>
+                            </div>
+                <img src="/globalassets/ip/media/front/ancillary/900x300/london-package-deal.jpg" alt="" class="ad__image">
+        </a>
+    </section>
+
+
+</div>
+<section  class="page-section">
+    <div class="grid">
+        <div class="row">
+    
+
+<section class="col-4--lg">
+        <a class="teaser" href="/dk/rejseinformation/indcheckning-og-boarding/rejseassistent-app/" onclick="_gaq.push(['_trackEvent', 'Banner Internal', 'RS-Ny App-DK-181115', '\x2flink\x2fdbfdf49527c745df9c56fc40c1d9dfa4.aspx\x3fid\x3d32046\x26epslanguage\x3dda']);">
+            <img class="teaser__image" src="/globalassets/ip/media/front/upsell/travel-assistant-app.jpg" alt="">
+<strong class="teaser__parent">
+    Ny app
+</strong>
+
+    <h3>
+        <span class="teaser__title">Se vores nye app</span> 
+    </h3>
+
+        </a>
+    
+        <p class="teaser teaser__description">
+            En god nyhed til folk på farten. Download Norwegians nye app i dag.
+        </p>
+</section>
+<section class="col-4--lg">
+        <a class="teaser" href="https://www.norwegian.com/ssl/dk/norwegian/customer-services/my-norwegian/claim-cashpoints/" onclick="_gaq.push(['_trackEvent', 'Banner Internal', 'RS-CashPoint-DK-160715', 'https\x3a\x2f\x2fwww.norwegian.com\x2fssl\x2fdk\x2fnorwegian\x2fcustomer-services\x2fmy-norwegian\x2fclaim-cashpoints\x2f']);_gaq.push(['_link', 'https\x3a\x2f\x2fwww.norwegian.com\x2fssl\x2fdk\x2fnorwegian\x2fcustomer-services\x2fmy-norwegian\x2fclaim-cashpoints\x2f']); return false;">
+            <img class="teaser__image" src="/globalassets/ip/media/front/upsell/claim-missing-cashpoints.jpg" alt="">
+<strong class="teaser__parent">
+    Har du glemt at optjene CashPoints?
+</strong>
+
+    <h3>
+        <span class="teaser__title">Claim your CashPoints now</span> 
+    </h3>
+
+        </a>
+    
+        <p class="teaser teaser__description">
+            Du kan gøre krav på manglende CashPoints op til 30 dage efter afrejse.
+        </p>
+</section>
+<section class="col-4--lg">
+        <a class="teaser" href="https://dk.norwegianreward.com/buygiftcard" onclick="_gaq.push(['_trackEvent', 'Banner Internal', 'RS-giftcard-DK-181115', 'https\x3a\x2f\x2fdk.norwegianreward.com\x2fbuygiftcard']);_gaq.push(['_link', 'https\x3a\x2f\x2fdk.norwegianreward.com\x2fbuygiftcard']); return false;">
+            <img class="teaser__image" src="/globalassets/ip/media/front/upsell/gift-card.jpg" alt="">
+<strong class="teaser__parent">
+    Giv en rejse til jul
+</strong>
+
+    <h3>
+        <span class="teaser__title">K&#248;b gavekort her</span> 
+    </h3>
+
+        </a>
+    
+        <p class="teaser teaser__description">
+            Overrask en du har kær, med en rejse der giver minder for livet
+        </p>
+</section>
+
+</div>
+
+    </div>
+</section><div class="campaign">
+        <section class="col-3--md">
+            
+
+
+<a href="/dk/booking/fly/lavpris/?D_City=CPH&amp;A_City=SJU&amp;D_Day=25&amp;D_Month=201512&amp;R_SelectedDay=&amp;R_Day=&amp;R_Month=&amp;CurrencyCode=DKK" class="ad   ad--primary" onclick="_gaq.push(['_trackEvent', 'Banner Internal', 'S4 - ThirdpartyPrice NO - SJU - 221215']);">
+    <div class="ad__content">
+
+                <h4>Puerto Rico</h4>
+
+                    <hr>
+                <strong class="ad__price">
+6999,-
+                </strong>
+    </div>
+</a>
+
+        </section>
+    <section class="col-9--md">
+        <a href="/dk/bokning/flyg/lagpris/?D_City=CPH&amp;A_City=SJU&amp;D_Day=01&amp;D_Month=201512&amp;R_Day=01&amp;R_Month=201512&amp;IncludeTransit=false&amp;AgreementCodeFK=-1&amp;CurrencyCode=DKK" class="ad  ad--image" onclick="_gaq.push(['_trackEvent', 'Banner Internal', 'S4 - ThirdpartyImage NO - SJU - 221215', '\x2fdk\x2fbokning\x2fflyg\x2flagpris\x2f\x3fD_City\x3dCPH\x26A_City\x3dSJU\x26D_Day\x3d01\x26D_Month\x3d201512\x26R_Day\x3d01\x26R_Month\x3d201512\x26IncludeTransit\x3dfalse\x26AgreementCodeFK\x3d-1\x26CurrencyCode\x3dDKK']);">
+            <div class="ad__content">
+                            </div>
+                <img src="/globalassets/ip/media/front/third-party/880x291-w51---san-juan---puerto-rico.jpg" alt="Visit Puerto Rico" class="ad__image">
+        </a>
+    </section>
+
+
+</div>
+<section  class="page-section">
+    <div class="grid">
+        <div class="row">
+    
+
+
+<div class="col-12">
+    
+
+<div class="box">
+        <h2>F&#229; de bedste tilbud f&#248;rst</h2>
+
+        <p class="normal">Tilmeld dig vores nyhedsbrev nu.</p>
+
+    <form action="/dk/technical-pages/signupnewsletter/" method="GET" name="newslettersignupform" data-ng-controller="NewsletterblockCtrl" data-ng-submit="submit($event)" novalidate>
+        <fieldset>
+            <div class="row">
+                <div class="col-7 col-12--md  col-7--lg">
+                    <div class="input" data-ng-class="{'input--error': submitPressed && newslettersignupform.newsletterEmail.$invalid}">
+                        <label for="newsletterEmail" class="input__label">E-mail</label>
+                        <input id="newsletterEmail" type="email" class="input__text" name="newsletterEmail" data-ng-model="email" required />
+                        <div class="input__line"></div>
+                    </div>
+                </div>
+                <div class="col-5  col-12--md  col-5--lg">
+                    <span class="input__label">&nbsp;</span>
+                    <button type="submit" class="button button--secondary">Abonner</button>
+                </div>
+            </div>
+                <div>
+                    <label class="checkbox" style="display: inline-block">
+                        <input type="checkbox" id="newsletterconfirm" name="newsletterconfirm" data-ng-model="confirm" value="true" required />
+                        <span class="checkbox__control-indicator"></span>L&#230;s de samlede betingelser
+                    </label>
+                    <div style="display: inline-block">
+                            <a data-ng-click="openModal('/dk/infourl/infoidprivacypolicy/', 'L&#230;s mere')">L&#230;s mere</a>
+                    </div>
+                    <div class="errors" data-ng-if="submitPressed" data-ng-messages="newslettersignupform.newsletterconfirm.$error" role="alert">
+                        <div data-ng-message="required">Du skal acceptere betingelserne</div>
+                    </div>
+                </div>
+            <div class="errors" data-ng-if="submitPressed" data-ng-messages="newslettersignupform.newsletterEmail.$error" role="alert">
+                <div data-ng-message="email">E-mail er ugyldig</div>
+                <div data-ng-message="required">E-mail er obligatorisk</div>
+            </div>
+        </fieldset>
+
+    </form>
+</div>
+
+</div>
+</div>
+
+    </div>
+</section>
+    </section>
+
+    
+
+
+
+
+
+
+<footer class="page-footer ">
+    <div class="grid">
+        <h2>Nyttige oplysninger</h2>
+        <hr>
+        <div class="row">
+            <section class="col-4--lg">
+                
+
+<h5>Rejs ud i verden med os</h5>
+<ul class="list&quot; list  list--reset">
+<li style="display: list-item;"><a href="/dk/destinationer/">Her flyver vi til</a></li>
+<li style="display: list-item;"><a href="/dk/booking/fly/lavpriskalender/">Lavpriskalender</a></li>
+<li style="display: list-item;"><a href="/dk/om-os/nyhedsbrev/">Tilmeld dig, og få gode tilbud</a></li>
+<li style="display: list-item;"><a href="https://dk.norwegianreward.com/buygiftcard" target="_blank">Gavekort</a></li>
+</ul>
+<h5>På farten</h5>
+<ul class="list&quot; list  list--reset">
+<li style="display: list-item;"><a href="/dk/mine-rejser/">Mine rejser</a></li>
+<li style="display: list-item;"><a href="/dk/flystatus/">Flystatus</a></li>
+<li style="display: list-item;"><a href="/dk/rejseinformation/indcheckning-og-boarding/online-indcheckning/">Online indcheckning</a></li>
+</ul>
+            </section>
+            <section class="col-4--lg">
+                
+
+<h5>Kundeservice</h5>
+<ul class="list  list--reset">
+<li style="display: list-item;"><a href="/dk/hjaelp-og-kontakt/">Hjælp og kontakt</a></li>
+<li style="display: list-item;"><a href="/dk/rejseinformation/specielle-behov/">Specielle behov</a></li>
+<li style="display: list-item;"><a href="/dk/rejseinformation/bagage/">Bagagetillæg</a></li>
+<li style="display: list-item;"><a href="/dk/booking/bookingoplysninger/tillaeg-for-valgfri-service/">Tillæg for valgfri service</a></li>
+</ul>
+<h5>Regler og vilkår</h5>
+<ul class="list  list--reset">
+<li style="display: list-item;"><a href="/dk/booking/bookingoplysninger/juridisk/brugervilkar/">Brugervilkår</a></li>
+<li style="display: list-item;"><a href="/dk/booking/bookingoplysninger/juridisk/generelle-vilkar-for-befordring/">Generelle vilkår for befordring</a></li>
+<li style="display: list-item;"><a href="/dk/booking/bookingoplysninger/juridisk/politik-om-beskyttelse-af-personlige-oplysninger/">Beskyttelse af personlige oplysninger</a></li>
+<li style="display: list-item;"><a href="/dk/booking/bookingoplysninger/juridisk/cookies/">Cookies</a></li>
+</ul>
+            </section>
+            <section class="col-4--lg">
+                
+
+<h5>Om os</h5>
+<ul class="list  list--reset">
+<li style="display: list-item;"><a href="/dk/om-os/">Om os</a></li>
+</ul>
+                
+<h4>Sprog</h4>
+ 
+<div class="select">
+    <label for="selectLanguage">V&#230;lg sprog</label>
+    <br />
+    <select id="selectLanguage" name="selectLanguage" onchange="NasPlainSwitchLanguageController.switchLanguage(this.value)">
+                <option value="www.norwegian.no">Norge (Norsk)</option>
+                <option value="/se/">Sverige (Svenska)</option>
+                <option selected="selected" value="/dk/">Danmark (Dansk)</option>
+                <option value="/fi/">Suomi (Suomeksi)</option>
+                <option value="/uk/">UK (English)</option>
+                <option value="/us/">USA (English)</option>
+                <option value="/en/">Other countries (English)</option>
+                <option value="/de/">Deutschland (Deutsch)</option>
+                <option value="/fr/">France (Fran&#231;ais)</option>
+                <option value="/es/">Espa&#241;a (Castellano)</option>
+                <option value="/pl/">Polska (Polski)</option>
+                <option value="/nl/">Nederland (English)</option>
+    </select>
+</div>
+  
+
+            </section>
+        </div>
+        <div class="row feature">
+            <section class="col-12--lg">
+                <hr>
+                                    <ul class="page-footer__social list list--icon-list list--icon-list--horizontal">
+                            <li><a href="https://www.facebook.com/norwegian.com" target="_blank">
+    <i role="presentation" class="icon-medium icon-medium--facebook"></i> Facebook
+</a>
+
+</li>
+                            <li><a href="http://twitter.com/#!/Fly_Norwegian" target="_blank">
+    <i role="presentation" class="icon-medium icon-medium--twitter"></i> Twitter
+</a>
+
+</li>
+                            <li><a href="https://instagram.com/flynorwegian/" target="_blank">
+    <i role="presentation" class="icon-medium icon-medium--instagram"></i> Instagram
+</a>
+
+</li>
+                            <li><a href="http://www.youtube.com/user/norwegian" target="_blank">
+    <i role="presentation" class="icon-medium icon-medium--youtube"></i> YouTube
+</a>
+
+</li>
+                    </ul>
+                <button type="button" class="button  button--large  button--right" onclick="NasPlainScrollToController.scrollTo()" >Til toppen<i class="icon-small  icon-small--arrow-up"></i></button>
+            </section>
+        </div>
+            <div class="row  feature">
+                <section class="col-12--lg">
+                    <p>Copyright ©&nbsp;2015&nbsp;Norwegian Air Shuttle ASA. Bemærk, at dette er en norsk salgsside. Derfor er det norsk lovgivning og regler, der gælder for evt. gebyrer og/eller afgifter.</p>
+                </section>
+            </div>
+    </div>
+</footer>
+
+<!-- Footer start-->
+    <script type="text/javascript">
+        (function() {
+            'use strict';
+            window.History.Adapter = {};
+            // swallowing error from script included below. ("Footer")
+            window.onerror = function(message) {
+                return message === 'Script error.';
+            }
+        })();
+    </script>
+    <script type="text/javascript" src="https://dl.episerver.net/current/epi-util/native.history.js"></script>
+<script type="text/javascript" src="https://dl.episerver.net/current/epi-util/find.js"></script>
+<script type="text/javascript">
+if(FindApi){var api = new FindApi();api.setApplicationUrl('/');api.setServiceApiBaseUrl('/find_v2/');api.processEventFromCurrentUri();api.bindWindowEvents();api.bindAClickEvent();api.sendBufferedEvents();}
+</script>
+
+
+
+<!-- Footer end -->
+    
+        <section class="alert alert--fixed-bottom" data-ng-if="showCookieDisclaimer">
+            <i class="icon-small icon-small--alert--light"></i>
+            <p>Vi bruger cookies på vores websted for at give dig den bedst mulige oplevelse.&nbsp;<a href="/dk/booking/bookingoplysninger/juridisk/cookies/">Læs mere om vores cookie-policy</a>. Når du besøger norwegian.com, accepterer du vores brug af cookies.&nbsp;</p>
+            <a data-ng-click="acceptCookie()">Forst&#229;et. Skjul denne meddelelse.</a>
+        </section>
+    
+
+    </main>
+    <script src="/Scripts/plain/plainPageController.js?v=i7uom45UAVTwyLK7P9EoIp2tztuZyDSJg-rQMAYcvkQ1"></script>
+
+<script src="/ClientResources/app.js?v=j8h4v0D5FvYxADMU8px7zkqW08Yo6_Q578_iVI6LWis1"></script>
+
+    
+        
+        
+    
+    <script type="text/javascript" src="/ClientResources/norwegian/app/controllers/blocks/SearchBoxBlockCtrl.js"></script><script type="text/javascript" src="/ClientResources/norwegian/app/controllers/blocks/NewsletterblockCtrl.js"></script>
+
+    <script>
+        (function () {
+            'use strict';
+            angular.module('nas.bootstrap').factory('design', [function () {
+                return { useNew: true };
+            }]);
+        })();
+    </script>
+
+<script type="text/javascript">
+    angular.module('nas.bootstrap').constant('nasConfig', {
+        logging: {
+            enabled: false,
+            infoUrl: '/js/logging/info',
+            errorUrl: '/js/logging/error'
+        },
+        culture: 'da-DK',
+        cacheBuster: '97f4f62a-50aa-472b-9288-11a9a7f749c1',
+        useSsl: true,//used in booking spa to force ssl from the login step and out
+        cookies: {
+            overrideAcceptDisclaimerCookie: { name: 'OVERRIDE_ACCEPT_COOKIE', value: 'Accepted' }, 
+            overrideDisplayModeCookie:{name: 'OVERRIDE_DISPLAY_MODE', valueDesktop: 'UseDesktop', valueMobile: 'UseMobile'}
+        }
+    });
+</script>
+    
+    
+    <!-- Adform Tracking Code BEGIN -->
+<script type="text/javascript" src="//track.adform.net/serving/scripts/trackpoint/"></script><script type = "text/javascript">
+//<![CDATA[
+if(typeof(Adform) != 'undefined' && typeof(Adform.Tracking) != 'undefined' && typeof(adf) != 'undefined'){
+Adform.Tracking.Params.PageName = encodeURIComponent('da|Home|norwegianhome');
+Adform.Tracking.Params.Divider = encodeURIComponent('|');
+Adform.Tracking.Track(41128);}
+//]]>
+</script>
+<noscript>
+<p style="margin:0;padding:0;border:0;"><img src="//track.adform.net/serving/scripts/trackpoint/?pm=41128&amp;ADFPageName=da|Home|norwegianhome&amp;ADFdivider=|" width="1" height="1" alt="" /></p>
+</noscript>
+<!-- Adform Tracking Code END -->
+
+</body>
+</html>

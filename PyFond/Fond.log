@@ -1,0 +1,38 @@
+DEBUG:root:12:35:02 - 17-08-2015 |---| Starter PyFond
+DEBUG:root:12:35:02 - 17-08-2015 |---| monthly rapport downloaded, attempting to send
+DEBUG:root:12:35:02 - 17-08-2015 |---| SMTP Vellykket
+DEBUG:root:12:35:02 - 17-08-2015 |---| PyFond ferdig
+DEBUG:root:18:20:04 - 17-08-2015 |---| Starting PyFond
+DEBUG:root:18:20:04 - 17-08-2015 |---| Attachments downloaded
+DEBUG:root:18:20:04 - 17-08-2015 |---| monthly rapport downloaded, attempting to send
+DEBUG:root:18:20:04 - 17-08-2015 |---| SMTP connection successful
+DEBUG:root:18:20:04 - 17-08-2015 |---| PyFond completed successfully
+DEBUG:root:08:54:00 - 18-08-2015 |---| Starting PyFond
+DEBUG:root:08:54:00 - 18-08-2015 |---| Attachments downloaded
+DEBUG:root:08:54:46 - 18-08-2015 |---| Starting PyFond
+DEBUG:root:08:54:46 - 18-08-2015 |---| Attachments downloaded
+DEBUG:root:08:55:39 - 18-08-2015 |---| Starting PyFond
+WARNING:root:08:55:39 - 18-08-2015 |---| Download failed - incorrect url
+DEBUG:root:13:52:42 - 18-08-2015 |---| Starting PyFond
+DEBUG:root:13:55:10 - 18-08-2015 |---| Starting PyFond
+WARNING:root:13:55:10 - 18-08-2015 |---| Download failed - incorrect url. Attempting to terminate..
+DEBUG:root:09:45:17 - 07-09-2015 |---| Starting PyFond
+DEBUG:root:09:45:17 - 07-09-2015 |---| Attachments downloaded
+DEBUG:root:09:45:17 - 07-09-2015 |---| monthly rapport downloaded, attempting to send
+WARNING:root:09:45:17 - 07-09-2015 |---| SMTP connection successful
+DEBUG:root:09:45:17 - 07-09-2015 |---| PyFond completed successfully
+DEBUG:root:09:47:12 - 07-09-2015 |---| Starting PyFond
+DEBUG:root:09:47:12 - 07-09-2015 |---| Attachments downloaded
+DEBUG:root:09:47:12 - 07-09-2015 |---| monthly rapport downloaded, attempting to send
+WARNING:root:09:47:12 - 07-09-2015 |---| SMTP connection successful
+DEBUG:root:09:47:12 - 07-09-2015 |---| PyFond completed successfully
+DEBUG:root:09:13:02 - 05-11-2015 |---| Starting PyFond
+DEBUG:root:09:13:02 - 05-11-2015 |---| Attachments downloaded
+DEBUG:root:09:13:02 - 05-11-2015 |---| monthly rapport downloaded, attempting to send
+DEBUG:root:09:13:02 - 05-11-2015 |---| SMTP connection successful
+DEBUG:root:09:13:02 - 05-11-2015 |---| PyFond completed successfully
+DEBUG:root:11:43:55 - 09-11-2015 |---| Starting PyFond
+DEBUG:root:11:43:55 - 09-11-2015 |---| Attachments downloaded
+DEBUG:root:11:43:55 - 09-11-2015 |---| monthly rapport downloaded, attempting to send
+DEBUG:root:11:43:55 - 09-11-2015 |---| SMTP connection successful
+DEBUG:root:11:43:55 - 09-11-2015 |---| PyFond completed successfully
