@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f72f95fb-feb8-44c0-adf5-5ef52792e0c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pandas/Py2Pandatest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pandas/input/Grade.xlsx" afterPath="$PROJECT_DIR$/Pandas/input/Grade.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Crawlers/Output/Cmore01.csv" afterPath="$PROJECT_DIR$/Crawlers/Output/Cmore01.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Crawlers/Output/Inputdata2.txt" afterPath="$PROJECT_DIR$/Crawlers/Output/Inputdata2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Crawlers/Output/Result2.csv" afterPath="$PROJECT_DIR$/Crawlers/Output/Result2.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Crawlers/Py2Html2File.py" afterPath="$PROJECT_DIR$/Crawlers/Py2Html2File.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pandas/Py2Pandatest.py" afterPath="$PROJECT_DIR$/Pandas/Py2Pandatest.py" />
     </list>
     <ignored path="Scripts.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -96,8 +93,8 @@
       <file leaf-file-name="Py2Pandatest.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pandas/Py2Pandatest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1525941">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.35096642">
+              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -129,6 +126,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -154,6 +152,7 @@
         <option value="$PROJECT_DIR$/Utility/PySplit.py" />
         <option value="$PROJECT_DIR$/Crawlers/Py2LeaseCrawl.py" />
         <option value="$PROJECT_DIR$/Crawlers/Py2Html2File.py" />
+        <option value="$PROJECT_DIR$/Pandas/Cmore.html" />
         <option value="$PROJECT_DIR$/Pandas/Py2Pandatest.py" />
       </list>
     </option>
@@ -307,7 +306,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="140" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
@@ -326,6 +325,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="950" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -635,16 +635,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Crawlers/Py2LeaseCrawl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Crawlers/Py2Html2File.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1031,8 +1021,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pandas/Py2Pandatest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1525941">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.35096642">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
           <folding />
         </state>
       </provider>
