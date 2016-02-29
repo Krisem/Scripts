@@ -5,6 +5,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pandas/input/Grade.xlsx" afterPath="$PROJECT_DIR$/Pandas/input/Grade.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pandas/Py2Pandatest.py" afterPath="$PROJECT_DIR$/Pandas/Py2Pandatest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pandas/input/Grade.csv" afterPath="$PROJECT_DIR$/Pandas/input/Grade.csv" />
     </list>
     <ignored path="Scripts.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,8 +94,8 @@
       <file leaf-file-name="Py2Pandatest.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pandas/Py2Pandatest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35096642">
-              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.22889115">
+              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -1021,8 +1022,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pandas/Py2Pandatest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35096642">
-          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.22889115">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
           <folding />
         </state>
       </provider>
