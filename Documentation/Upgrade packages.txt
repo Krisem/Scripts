@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/2720014/upgrading-all-packages-with-pip
