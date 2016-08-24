@@ -1,5 +1,4 @@
-import hashlib, csv
-
+import hashlib
 
 with open("Output/email.txt","r") as f:
     for line in f.readlines():
