@@ -6,10 +6,10 @@ marks = pd.read_excel('Input/Grade.xlsx', index_col='Student')
 print "log: load completed, initiating analysis"
 # gets the first question column, if the column didn't have spaces, you
 # could have used dot look up: marks.question1
-marks['question 1']
+#marks['q1']
 
 # returns a series of booleans where students answered 'y' for question 1
-marks['question 1'] == 'y'
+marks['q1'] == 'y'
 
 # combines the booleans into a single series, where true is where
 # students answered 'y' for question 1 and 'n' for question '2'
