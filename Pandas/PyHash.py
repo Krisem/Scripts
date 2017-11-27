@@ -2,7 +2,7 @@
 # __author__ = "Kristoffer Semelenge"
 import hashlib
 
-with open("Input/email.txt","r") as f_in, open('Output/hashed-emails.csv', 'w') as f_out:
+with open("Input/email.txt", "r") as f_in, open('Output/hashed-emails.csv', 'w') as f_out:
     for line in f_in:
         line = line.lower().rstrip("\n")
         line_uni = line.encode("utf-8")

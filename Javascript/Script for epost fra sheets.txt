@@ -1,0 +1,45 @@
+/**
+ * add trigger for onedit - 
+  * see menu -> Resouces -> Current project's triggers
+ */
+function Initialize() {
+ 
+  var triggers = ScriptApp.getProjectTriggers();
+ 
+  for(var i in triggers) {
+    ScriptApp.deleteTrigger(triggers[i]);
+  }
+  
+  ScriptApp.newTrigger("sendNotification")
+  .forSpreadsheet(SpreadsheetApp.getActiveSpreadsheet())
+  .onEdit()
+  .create();
+  
+};
+
+
+/**
+ * 
+ */
+
+
+function sendNotification(e) {
+     
+  if("M2" == e.range.getA1Notation() || "M3" == e.range.getA1Notation()) {
+    if(e.value == "ok") {
+
+
+      
+  //Define Notification Details
+      var recipients = "myemail .... @gmail.com";
+      var subject = "Update"+e.range.getSheet().getName();
+      var body = "cell M2 has been updated";
+      
+  //Send the Email
+      MailApp.sendEmail(recipients, subject, body);
+    }
+  }
+}
+
+
+//https://productforums.google.com/forum/#!topic/docs/wNPae26EtGI
